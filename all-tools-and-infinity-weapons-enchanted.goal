@@ -1,0 +1,33 @@
+Infinity Weapons
+	Infinity Blade					🗹
+		Enchantment: Crusader
+	Infinity Dagger
+		Enchantment: ???
+	Infinity Gavel					🗹
+		Enchantment: Artful
+
+Tools
+	Axe
+		Enchantment: Swift
+	Fishing Rod
+		Enchantment: Auto-Hook
+	Hoe
+		Enchantment: Reaching | Generous
+	Pickaxe							🗹
+		Enchantment: Swift
+	Can								🗹
+		Enchantment: Bottomless
+	Pan
+		Enchantment: Archaeologist | Generous
+
+Needs
+	5 Prismatic Shards
+
+Steps
+	Any year
+		Any season
+			Any day of the week
+				☣️ At start of day
+					If Prismatic Shards > 1
+						Enchant one tool or weapon
+						If enchantment is not a desired one, restart day and try with a different tool or weapon

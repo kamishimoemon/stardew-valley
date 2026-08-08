@@ -1,0 +1,45 @@
+Chickens
+	White Chicken														🗹
+		Needs: Coop
+		Source: Marnie's Ranch chosen at random at purchase
+	Brown Chicken														🗹
+		Needs: Coop
+		Source: Marnie's Ranch chosen at random at purchase
+	Blue Chicken
+		Needs: Coop
+		Source: Marnie's Ranch chosen at random at purchase
+		Unlocked after: seeing Shane's 8-heart event
+	Void Chicken
+		Needs: Big Coop
+		Source: Hatched by placing a Void Egg into an Incubator
+		Void Egg: Sold by Krobus for 5,000g
+	Golden Chicken
+		Needs: Big Coop && Perfection
+		Source: Hatched by placing a Golden Egg into an Incubator
+		Golden Egg: Sold at Marnie's Ranch for 100,000g
+
+Dinosaur
+	Needs: Big Coop
+	Source: Hatched by placing a Dinosaur Egg into an Incubator
+
+Needs
+	6 Golden Animal Crackers
+
+Steps
+	Build Coop							🗹
+	Upgrade Coop to Big Coop			🗹
+	Buy White Chicken					🗹
+	Buy Brown Chicken					🗹
+	↘️
+	Trigger Shane's 8-heart event
+	Buy Blue Chicken
+	↘️
+	Buy Void Egg
+	Hatch Void Chicken
+	↘️
+	◀️Reach Perfection
+	Buy Golden Egg
+	Hatch Golden Chicken
+	↘️
+	Get Dinosaur Egg					🗹
+	Hatch Dinosaur

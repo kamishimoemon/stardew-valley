@@ -1,0 +1,57 @@
+Pre-first Sunday
+ - Forge 50 Iridium Bars
+ - Forge 26 Refined Quartz
+
+First Sunday
+ - Grab all Diamonds
+ - Grab all Rubies
+ - Grab all Jades
+ - Craft 8 Solar Panels
+ - Craft 56 Crystalariums
+ - Go to Calico Desert (how? totem?)
+ - Place Solar Panels (maybe near the warp point)
+ - Trade all but 35 Diamonds
+ - Trade all but 21 Rubies
+ - Trade all Jades
+ - Take the bus back to Stardew Valley
+
+Default Sunday
+	 - Grab all Jades
+	 - Go to the tunnel
+	 - Collect all diamonds and rubies
+	 - Go to Calico Desert through the Desert Totem
+	 - Collect all Battery Packs
+	 - Trade all Diamonds
+	 - Trade all Rubies
+	 - Trade all Jades
+	 - Use the bus to back to Farm
+	 - Store all Battery Packs
+
+If number of Crystalariums < 104
+	Before next Sunday
+	 - Get 792 Stone
+	 - Forge 40 Gold Bars
+	 - Forge 16 Iridium Bars
+	 - Get 8 Battery Packs
+
+	On Sunday
+		If I can craft 8 Crystalariums
+			 - Grab all Jades
+			 - Craft 8 Crystalariums
+			 - Go to the tunnel
+			 - Place the new Crystalariums
+			 - Collect all diamonds and rubies
+			 - Feed the new Crystalariums, 5 with diamonds and 3 with rubies
+			 - Go to Calico Desert through the Desert Totem
+			 - Collect all Battery Packs
+			 - Trade all Diamonds
+			 - Trade all Rubies
+			 - Trade all Jades
+			 - Use the bus to back to Farm
+			 - Store all Battery Packs
+		Else
+			Default Sunday
+		Fi
+Else
+	On Sunday
+		Default Sunday

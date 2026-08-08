@@ -1,0 +1,163 @@
+Money
+	Farming
+		Fertilizers
+			Speed-Gro
+				Source: Pierre's
+				Price: 100g
+			Deluxe Speed-Gro
+				Source: Pierre's
+				Price: 150g
+				Note: no craftear
+			Hyper Speed-Gro
+				1 Radioactive Ore
+				3 Bone Fragment
+					Source: Bone Nodes on Gingle Island Dig Site
+				1 Solar Essence
+
+		On Main Farm
+			Sow Ancient Fruit
+			Fertilize with Hyper Speed-Gro or Speed-Gro (but not with Deluxe Speed-Gro)
+			Harvest after⬇️
+				25/7 days with Speed-Gro
+				18/7 days with Hyper Speed-Gro
+			Replant with Fiber Seeds
+
+			On current year
+				Any day (once)
+					Go to Greenhouse
+					Destroy all plants except Ancient Fruits
+					Makes watering as efficient as possible (use Pressure Nozzle if possible)
+					☣️Fertilize every (or as many as possible) free tile with Hyper Speed-Gro
+					Remove all fruit trees
+					Remove all chests and save items as currently doing
+				Everyday
+					Go to Greenhouse
+					if Ancient Fruit ready to harvest > 1
+						Harvest all Ancient Fruit
+						Feed them into the Seed Makers
+						Craft as many Seed Makers as needed and place them at the Greenhouse
+						if Greenhouse's free tiles > 1
+							Plant as many new Ancient Seeds as possible
+						Else
+							Save Ancient Seeds in seed's chest
+			Next Year
+				Spring 1st
+					Harvest all Fiber
+					Sow all Ancient Seeds saved or as many as possible
+				On 1st harvest↖️
+					Feed all Ancient Fruit harvested into Seed Makers
+					At this point, Ancient Fruit plants at the Greenhouse can be destroyed
+				On subsequent harvests↖️
+					Convert into wine (continues on Wineing)
+
+			Seeds
+				Fiber Seed
+					1 Mixed Seed
+						Source: Krobus (Thursdays)
+						Price: 30g
+					5 Sap
+					1 Clay
+						Source: Clay Nodes at Ginger Island Dig Site
+
+			Equipment
+				Seed Maker
+					25 Wood
+					1 Gold Bar
+					10 Coal
+
+		On Island Farm
+			Sow Starfruit
+			Fertilize with the best fertilizer available
+			Harvest after⬇️
+				11 days with Speed-Gro (+15%)
+				9 days with Deluxe Speed-Gro (+18%)
+				8 days with Hyper Speed-Gro (+11%)
+			Replant immediately
+
+			On current year
+				Any day
+					Go to Oasis
+					Buy the exact quantity needed of Starfruit Seeds
+					Go to Ginger Island Farm
+					Tile all tileable cells
+					Mark limits
+					Fertilize with the best fertilizer available but without mixing fertilizers
+					Sow all Starfruit Seeds
+					Water all seeds
+				On harvest day↖️
+					Go to Ginger Island Farm
+					Harvest all Starfruits
+					Go to Oasis
+					Buy the exact quantity needed of Starfruit Seeds
+					Go back to Ginger Island Farm
+					Sow all Starfruit Seeds
+					Convert into wine (continues on Wineing)
+
+	Wineing
+		Craft as many Kegs as possible
+		Place fruit on Keg
+		Wait 7 days
+		Profit
+		Optional
+			Use Fairy Dust prioritizing Starfruit Wine
+			Equal profit but faster
+
+		Equipment
+			Keg
+				30 Wood
+				1 Copper Bar
+				1 Iron Bar
+				1 Oak Resin
+
+	Foresting
+		Plant as many trees as possible
+		Craft a Tree Fertilizer for every tree planted (prioritize Tree Fertilizers for tapping forests)
+		if the forest if for tapping
+			Craft a Tapper or Heavy Tapper for every tree planted
+			Place a Tapper in every tree
+			Prioritize Heavy Tappers for Mystic Trees
+			Collect product when filled
+
+		Seeds
+			Mystic Tree Seed
+				5 Acorn
+				5 Maple Seed
+				5 Pine Cone
+				5 Mahogany Seed
+
+		Fertilizer
+			Tree Fertilizer
+				5 Fiber
+				5 Stone
+
+		Equipment
+			Tapper
+				40 Wood
+				2 Copper Bar
+			Heavy Tapper
+				30 Hardwood
+				1 Radioactive Bar
+
+		Wood | Acorn | Maple Seed | Pine Cone
+			On free time
+				Cut down trees anywhere
+				Maybe grow a Pine Forest in Calico Desert
+
+		Hardwood | Mahogany Seeds
+			On free time
+				Cut down Mahogany Trees on Ginger Island
+				Cut down tree stumps on Secret Forest
+				For aditional Mahogany Seeds, they can be traded by Raccoon's Wife for 20 Coal
+
+		Fairy Dust
+			Craft as many Mystic Tree Seeds as possible
+			Grow a Mystic Forest
+			Collect product after⬇️
+				7 days with Tapper
+				3 days with Heavy Tapper (+57%)
+
+		Oak Resin
+			With the Acorns left, grow an Oak forest
+			Collect product after⬇️
+				7 days with Tapper
+				3 days with Heavy Tapper (+57%)
