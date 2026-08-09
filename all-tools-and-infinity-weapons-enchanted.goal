@@ -2,32 +2,50 @@ Infinity Weapons
 	Infinity Blade					🗹
 		Enchantment: Crusader
 	Infinity Dagger
-		Enchantment: ???
+		Enchantment: Artful
+		Priority: 3
 	Infinity Gavel					🗹
 		Enchantment: Artful
 
 Tools
 	Axe
 		Enchantment: Swift
-	Fishing Rod
-		Enchantment: Auto-Hook
+		Priority: 1
 	Hoe
 		Enchantment: Reaching | Generous
+		Priority: 2
+	Fishing Rod
+		Enchantment: Auto-Hook
+		Priority: 3
+	Pan
+		Enchantment: Generous
+		Priority: 3
 	Pickaxe							🗹
 		Enchantment: Swift
 	Can								🗹
 		Enchantment: Bottomless
-	Pan
-		Enchantment: Archaeologist | Generous
 
 Needs
 	5 Prismatic Shards
+	100 Cinder Shards
+
+Prismatic Shards
+	Before Perfection
+		Do not farm
+		Reserve Prismatic Shards obtained incidentally for enchanting
+	After Perfection
+		Obtain Statue Of True Perfection
+		Collect Prismatic Shard every day until all enchantments are completed
 
 Steps
 	Any year
 		Any season
 			Any day of the week
 				☣️ At start of day
-					If Prismatic Shards > 1
-						Enchant one tool or weapon
-						If enchantment is not a desired one, restart day and try with a different tool or weapon
+					If Prismatic Shards >= 1 && Cinder Shards >= 20
+						Select a pending tool or weapon from the highest available priority
+						Go to Forge
+						Enchant selected tool or weapon
+						If enchantment is not desired
+							Restart day
+							Skip enchanting
