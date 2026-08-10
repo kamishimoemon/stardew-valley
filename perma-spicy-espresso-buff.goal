@@ -41,7 +41,7 @@ Steps
 		Trade remaining Rubies
 		Trade all Jades
 
-	Default Sunday
+	Every other Sunday
 		Grab all Jades
 		Go to Calico Desert through Desert Totem
 		Collect all Diamonds
@@ -52,23 +52,3 @@ Steps
 		Trade all Jades
 		Use the bus to go back to Farm
 		Store all Battery Packs
-
-	Expansion
-		On Sunday
-			If I can craft 8 Crystalariums
-				Grab all Jades
-				Craft 8 Crystalariums
-				Go to Calico Desert through Desert Totem
-				Collect all Diamonds
-				Collect all Rubies
-				Collect all Battery Packs
-				Place new Crystalariums
-				Feed 5 with Diamonds
-				Feed 3 with Rubies
-				Trade remaining Diamonds
-				Trade remaining Rubies
-				Trade all Jades
-				Use the bus to go back to Farm
-				Store remaining Battery Packs
-			Else
-				Default Sunday
