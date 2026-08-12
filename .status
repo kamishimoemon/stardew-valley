@@ -1,1077 +1,1149 @@
 Main Info
-	Name							Darío
-	Farm Name						Thrive
-	Farm Type						Wilderness Farm
-	Favorite Thing					Joja
-	Gold							893,062g
-	Total Earnings					9,418,751g
-	Community Center/JoJa run		Joja
-	Joja upgrades completed			Yes
-	Qi Gems							13
-	House							Level 4
-	Maximum floor reached			112
-	Stardrops						5
-	Date							Day 15 of Summer, Year 4
-	Weather							Green Rain
+	Name									Darío
+	Farm Name								Thrive
+	Farm Type								Wilderness Farm
+	Favorite Thing							Joja
+	Gold									893,062g
+	Total Earnings							9,418,751g
+	Community Center/JoJa run				Joja
+	Joja upgrades completed					Yes
+	Qi Gems									13
+	House									Level 4
+	Maximum floor reached					112
+	Stardrops								5
+	Date									Day 15 of Summer, Year 4
+	Weather									Green Rain
 
 Clothing
-	Hat								Infinity Crown
-	Shirt							Shirt
-	Pants							Farmer Pants
-	Shoes							Crystal Shoes
-	Ring (Slot 1)					Combined Ring (Burglar's Ring + Iridium Band)
-	Ring (Slot 2)					Combined Ring (Napalm Ring + Iridium Band)
-	Tinket							Ice Rod (3.3s, 4s)
+	Hat										Infinity Crown
+	Shirt									Shirt
+	Pants									Farmer Pants
+	Shoes									Crystal Shoes
+	Ring (Slot 1)							Combined Ring (Burglar's Ring + Iridium Band)
+	Ring (Slot 2)							Combined Ring (Napalm Ring + Iridium Band)
+	Tinket									Ice Rod (3.3s, 4s)
 
 Inventory
 	Iridium Axe
-		Enchantment					Efficient
-		Permanent					No
+		Enchantment							Efficient
+		Permanent							No
 	Iridium Hoe
-		Enchantment					None
-		Permanent					No
+		Enchantment							None
+		Permanent							No
 	Iridium Scythe
-		Enchantment					N/A
-		Permanent					No
+		Enchantment							N/A
+		Permanent							No
 	Advanced Iridium Rod
-		Bait						Deluxe Bait
-			Quantity				195
-		Tackle (Slot 1)				None
-		Tackle (Slot 1)				None
-		Enchantment					Master
-		Permanent					No
+		Bait								Deluxe Bait
+			Quantity						195
+		Tackle (Slot 1)						None
+		Tackle (Slot 1)						None
+		Enchantment							Master
+		Permanent							No
 	Iridium Pan
-		Enchantment					None
-		Permanent					No
+		Enchantment							None
+		Permanent							No
 	Starfruit (regular)
-		Quantity					43
-		Permanent					No
+		Quantity							43
+		Permanent							No
 	Starfruit (silver)
-		Quantity					352
-		Permanent					No
+		Quantity							352
+		Permanent							No
 	Starfruit (gold)
-		Quantity					449
-		Permanent					No
+		Quantity							449
+		Permanent							No
 	Iridium Pickaxe
-		Enchantment					Swift
-		Permanent					Yes
+		Enchantment							Swift
+		Permanent							Yes
 	Infinity Blade
-		Forged						Yes
-		Enchantment					Crusader
-		Permanent					Yes
+		Forged								Yes
+		Enchantment							Crusader
+		Permanent							Yes
 	Spicy Eel
-		Quantity					22
-		Permanent					Yes
+		Quantity							22
+		Permanent							Yes
 	Bomb
-		Quantity					70
-		Permanent					Yes
+		Quantity							70
+		Permanent							Yes
 	Triple Shot Espresso
-		Quantity					17
-		Permanent					Yes
+		Quantity							17
+		Permanent							Yes
 	Staircase
-		Quantity					16
-		Permanent					Yes
+		Quantity							16
+		Permanent							Yes
 	Iridium Watering Can
-		Enchantment					Bottomless
-		Permanent					No
+		Enchantment							Bottomless
+		Permanent							No
 	Infinity Gavel
-		Forged						No
-		Enchantment					Artful
-		Permanent					No
+		Forged								No
+		Enchantment							Artful
+		Permanent							No
 	Starfruit Jelly
-		Quantity					162
-		Permanent					Yes
+		Quantity							162
+		Permanent							Yes
 	Mega Bomb
-		Quantity					52
-		Permanent					Yes
+		Quantity							52
+		Permanent							Yes
 
 Skills
-	Farming							10
-		Profession:					Tiller + Artisan
-		Mastery:					Yes
-	Mining							10
-		Profession:					Miner + Prospector
-		Mastery:					Yes
-	Foraging						10
-		Profession:					Gatherer + Botanist
-		Mastery:					Yes
-	Fishing							11
-		Profession:					Fisher + Pirate
-		Mastery:					Yes
-	Combat							10
-		Profession:					Fighter + Brute
-		Mastery:					Yes
+	Farming									10
+		Profession:							Tiller + Artisan
+		Mastery:							Yes
+	Mining									10
+		Profession:							Miner + Prospector
+		Mastery:							Yes
+	Foraging								10
+		Profession:							Gatherer + Botanist
+		Mastery:							Yes
+	Fishing									11
+		Profession:							Fisher + Pirate
+		Mastery:							Yes
+	Combat									10
+		Profession:							Fighter + Brute
+		Mastery:							Yes
 
 Social
 	Abigail
-		Hearts						3/8
-		Gifts						0
-		Status						Single
+		Hearts								3/8
+		Gifts								0
+		Status								Single
 	Alex
-		Hearts						5/8
-		Gifts						0
-		Status						Single
+		Hearts								5/8
+		Gifts								0
+		Status								Single
 	Caroline
-		Hearts						7/10
-		Gifts						0
+		Hearts								7/10
+		Gifts								0
 	Clint
-		Hearts						10/10
-		Gifts						0
+		Hearts								10/10
+		Gifts								0
 	Demetrius
-		Hearts						9/10
-		Gifts						0
+		Hearts								9/10
+		Gifts								0
 	Dwarf
-		Hearts						6/10
-		Gifts						0
+		Hearts								6/10
+		Gifts								0
 	Elliott
-		Hearts						8/8
-		Gifts						0
-		Status						Single
+		Hearts								8/8
+		Gifts								0
+		Status								Single
 	Emily
-		Hearts						8/10
-		Gifts						0
-		Status						Girlfriend
+		Hearts								8/10
+		Gifts								0
+		Status								Girlfriend
 	Evelyn
-		Hearts						4/10
-		Gifts						0
+		Hearts								4/10
+		Gifts								0
 	George
-		Hearts						4/10
-		Gifts						0
+		Hearts								4/10
+		Gifts								0
 	Gus
-		Hearts						9/10
-		Gifts						0
+		Hearts								9/10
+		Gifts								0
 	Haley
-		Hearts						10/10
-		Gifts						0
-		Status						Girlfriend
+		Hearts								10/10
+		Gifts								0
+		Status								Girlfriend
 	Harvey
-		Hearts						6/8
-		Gifts						0
-		Status						Single
+		Hearts								6/8
+		Gifts								0
+		Status								Single
 	Jas
-		Hearts						7/10
-		Gifts						0
+		Hearts								7/10
+		Gifts								0
 	Jodi
-		Hearts						7/10
-		Gifts						0
+		Hearts								7/10
+		Gifts								0
 	Kent
-		Hearts						10/10
-		Gifts						0
+		Hearts								10/10
+		Gifts								0
 	Krobus
-		Hearts						7/10
-		Gifts						0
+		Hearts								7/10
+		Gifts								0
 	Leah
-		Hearts						7/8
-		Gifts						0
-		Status						Single
+		Hearts								7/8
+		Gifts								0
+		Status								Single
 	Leo
-		Hearts						2/10
-		Gifts						0
+		Hearts								2/10
+		Gifts								0
 	Lewis
-		Hearts						10/10
-		Gifts						0
+		Hearts								10/10
+		Gifts								0
 	Linus
-		Hearts						10/10
-		Gifts						0
+		Hearts								10/10
+		Gifts								0
 	Marnie
-		Hearts						9/10
-		Gifts						0
+		Hearts								9/10
+		Gifts								0
 	Maru
-		Hearts						10/10
-		Gifts						0
-		Status						Girlfriend
+		Hearts								10/10
+		Gifts								0
+		Status								Girlfriend
 	Pam
-		Hearts						10/10
-		Gifts						0
+		Hearts								10/10
+		Gifts								0
 	Penny
-		Hearts						10/10
-		Gifts						0
-		Status						Girlfriend
+		Hearts								10/10
+		Gifts								0
+		Status								Girlfriend
 	Pierre
-		Hearts						5/10
-		Gifts						0
+		Hearts								5/10
+		Gifts								0
 	Robin
-		Hearts						7/10
-		Gifts						0
+		Hearts								7/10
+		Gifts								0
 	Sam
-		Hearts						1/10
-		Gifts						0
-		Status						Single
+		Hearts								1/10
+		Gifts								0
+		Status								Single
 	Sandy
-		Hearts						6/10
-		Gifts						0
+		Hearts								6/10
+		Gifts								0
 	Sebastian
-		Hearts						6/8
-		Gifts						0
-		Status						Single
+		Hearts								6/8
+		Gifts								0
+		Status								Single
 	Shane
-		Hearts						6/8
-		Gifts						0
-		Status						Single
+		Hearts								6/8
+		Gifts								0
+		Status								Single
 	Vincent
-		Hearts						4/10
-		Gifts						0
+		Hearts								4/10
+		Gifts								0
 	Willy
-		Hearts						8/10
-		Gifts						0
+		Hearts								8/10
+		Gifts								0
 	Wizard
-		Hearts						5/10
-		Gifts						0
+		Hearts								5/10
+		Gifts								0
 
 Special Items & Powers
-	Forest Magic					Yes
-	Dwarvish Translation Guide		Yes
-	Rusty Key						Yes
-	Club Card						Yes
-	Special Charm					Yes
-	Skull Key						Yes
-	Magnifying Glass				Yes
-	Dark Talisman					Yes
-	Magic Ink						Yes
-	Bear's Knowledge				Yes
-	Spring Onion Mastery			No
-	Key To The Town					Yes
-	Price Catalogue					Yes
-	Mapping Cave Systems			Yes
-	Way Of The Wind pt. 1			Yes
-	Way Of The Wind pt. 2			Yes
-	Monster Compendium				Yes
-	Friendship 101					Yes
-	Jack Be Nimble, Jack Be Thick	Yes
-	Woody's Secret					Yes
-	Raccoon Journal					Yes
-	Jewels Of The Sea				Yes
-	Dwarvish Safety Manual			Yes
-	The Art O' Crabbing				Yes
-	The Alleyway Buffet				Yes
-	The Diamond Hunter				Yes
-	Book of Mysteries				Yes
-	Horse: The Book					Yes
-	Treasure Appraisal Guide		Yes
-	Ol' Slitherlegs					Yes
-	Animal Catalogue				Yes
-	Farming Mastery					Yes
-	Fishing Mastery					Yes
-	Foraging Mastery				Yes
-	Mining Mastery					Yes
-	Combat Mastery					Yes
+	Forest Magic							Yes
+	Dwarvish Translation Guide				Yes
+	Rusty Key								Yes
+	Club Card								Yes
+	Special Charm							Yes
+	Skull Key								Yes
+	Magnifying Glass						Yes
+	Dark Talisman							Yes
+	Magic Ink								Yes
+	Bear's Knowledge						Yes
+	Spring Onion Mastery					No
+	Key To The Town							Yes
+	Price Catalogue							Yes
+	Mapping Cave Systems					Yes
+	Way Of The Wind pt. 1					Yes
+	Way Of The Wind pt. 2					Yes
+	Monster Compendium						Yes
+	Friendship 101							Yes
+	Jack Be Nimble, Jack Be Thick			Yes
+	Woody's Secret							Yes
+	Raccoon Journal							Yes
+	Jewels Of The Sea						Yes
+	Dwarvish Safety Manual					Yes
+	The Art O' Crabbing						Yes
+	The Alleyway Buffet						Yes
+	The Diamond Hunter						Yes
+	Book of Mysteries						Yes
+	Horse: The Book							Yes
+	Treasure Appraisal Guide				Yes
+	Ol' Slitherlegs							Yes
+	Animal Catalogue						Yes
+	Farming Mastery							Yes
+	Fishing Mastery							Yes
+	Foraging Mastery						Yes
+	Mining Mastery							Yes
+	Combat Mastery							Yes
 
 Items Shipped
 	Wild Horseradish
-		Shipped						Yes
+		Shipped								Yes
 	Daffodil
-		Shipped						Yes
+		Shipped								Yes
 	Leek
-		Shipped						Yes
+		Shipped								Yes
 	Dandelion
-		Shipped						Yes
+		Shipped								Yes
 	Parsnip
-		Shipped						Yes
+		Shipped								Yes
 	Cave Carrot
-		Shipped						No
+		Shipped								No
 	Coconut
-		Shipped						No
+		Shipped								No
 	Cactus Fruit
-		Shipped						No
+		Shipped								No
 	Banana
-		Shipped						No
+		Shipped								No
 	Sap	
-		Shipped						Yes
+		Shipped								Yes
 	Large White Egg
-		Shipped						Yes
+		Shipped								Yes
 	White Egg
-		Shipped						Yes
+		Shipped								Yes
 	Brown Egg
-		Shipped						Yes
+		Shipped								Yes
 	Large Brown Egg
-		Shipped						Yes
+		Shipped								Yes
 	Milk
-		Shipped						Yes
+		Shipped								Yes
 	Large Milk
-		Shipped						No
+		Shipped								No
 	Green Bean
-		Shipped						Yes
+		Shipped								Yes
 	Cauliflower
-		Shipped						Yes
+		Shipped								Yes
 	Potato
-		Shipped						Yes
+		Shipped								Yes
 	Garlic
-		Shipped						No
+		Shipped								No
 	Kale
-		Shipped						Yes
+		Shipped								Yes
 	Rhubarb
-		Shipped						No
+		Shipped								No
 	Melon
-		Shipped						No
+		Shipped								No
 	Tomato
-		Shipped						No
+		Shipped								No
 	Morel
-		Shipped						No
+		Shipped								No
 	Blueberry
-		Shipped						Yes
+		Shipped								Yes
 	Fiddlehead Fern	
-		Shipped						Yes
+		Shipped								Yes
 	Hot Pepper
-		Shipped						No
+		Shipped								No
 	Wheat
-		Shipped						No
+		Shipped								No
 	Radish
-		Shipped						No
+		Shipped								No
 	Red Cabbage
-		Shipped						No
+		Shipped								No
 	Starfruit
-		Shipped						No
+		Shipped								No
 	Corn
-		Shipped						No
+		Shipped								No
 	Unmilled Rice
-		Shipped						No
+		Shipped								No
 	Eggplant
-		Shipped						No
+		Shipped								No
 	Artichoke
-		Shipped						No
+		Shipped								No
 	Pumpkin
-		Shipped						No
+		Shipped								No
 	Bok Choy
-		Shipped						No
+		Shipped								No
 	Yam
-		Shipped						No
+		Shipped								No
 	Chanterelle
-		Shipped						No
+		Shipped								No
 	Cranberries
-		Shipped						No
+		Shipped								No
 	Holly
-		Shipped						Yes
+		Shipped								Yes
 	Beet
-		Shipped						No
+		Shipped								No
 	Ostrich Egg
-		Shipped						No
+		Shipped								No
 	Salmonberry
-		Shipped						No
+		Shipped								No
 	Amaranth
-		Shipped						No
+		Shipped								No
 	Pale Ale
-		Shipped						No
+		Shipped								No
 	Hops
-		Shipped						No
+		Shipped								No
 	Void Egg
-		Shipped						No
+		Shipped								No
 	Mayonnaise
-		Shipped						No
+		Shipped								No
 	Duck Mayonnaise
-		Shipped						No
+		Shipped								No
 	Void Mayonnaise
-		Shipped						No
+		Shipped								No
 	Clay
-		Shipped						No	
+		Shipped								No	
 	Copper Bar
-		Shipped						Yes
+		Shipped								Yes
 	Iron Bar
-		Shipped						Yes
+		Shipped								Yes
 	Gold Bar
-		Shipped						Yes
+		Shipped								Yes
 	Iridium Bar
-		Shipped						Yes
+		Shipped								Yes
 	Refined Quartz
-		Shipped						Yes
+		Shipped								Yes
 	Honey
-		Shipped						Yes
+		Shipped								Yes
 	Pickles
-		Shipped						Yes
+		Shipped								Yes
 	Jelly
-		Shipped						Yes
+		Shipped								Yes
 	Beer
-		Shipped						No
+		Shipped								No
 	Wine
-		Shipped						Yes
+		Shipped								Yes
 	Juice
-		Shipped						Yes
+		Shipped								Yes
 	Poppy
-		Shipped						No
+		Shipped								No
 	Copper Ore
-		Shipped						No
+		Shipped								No
 	Iron Ore
-		Shipped						No
+		Shipped								No
 	Coal
-		Shipped						No
+		Shipped								No
 	Gold Ore
-		Shipped						No
+		Shipped								No
 	Iridium Ore
-		Shipped						No
+		Shipped								No
 	Wood
-		Shipped						No
+		Shipped								No
 	Stone
-		Shipped						Yes
+		Shipped								Yes
 	Nautilus Shell
-		Shipped						Yes
+		Shipped								Yes
 	Coral
-		Shipped						Yes
+		Shipped								Yes
 	Rainbow Shell
-		Shipped						Yes
+		Shipped								Yes
 	Spice Berry
-		Shipped						Yes
+		Shipped								Yes
 	Sea Urchin
-		Shipped						Yes
+		Shipped								Yes
 	Grape
-		Shipped						Yes
+		Shipped								Yes
 	Spring Onion
-		Shipped						Yes
+		Shipped								Yes
 	Strawberry
-		Shipped						No
+		Shipped								No
 	Sweet Pea
-		Shipped						Yes
+		Shipped								Yes
 	Common Mushroom
-		Shipped						No
+		Shipped								No
 	Wild Plum
-		Shipped						No
+		Shipped								No
 	Hazelnut
-		Shipped						No
+		Shipped								No
 	Blackberry
-		Shipped						Yes
+		Shipped								Yes
 	Winter Root
-		Shipped						No
+		Shipped								No
 	Crystal Fruit
-		Shipped						Yes
+		Shipped								Yes
 	Snow Yam
-		Shipped						Yes
+		Shipped								Yes
 	Sweet Gem Berry
-		Shipped						Yes
+		Shipped								Yes
 	Crocus
-		Shipped						Yes
+		Shipped								Yes
 	Red Mushroom
-		Shipped						No
+		Shipped								No
 	Sunflower
-		Shipped						No
+		Shipped								No
 	Purple Mushroom
-		Shipped						No
+		Shipped								No
 	Cheese
-		Shipped						No
+		Shipped								No
 	Goat Cheese
-		Shipped						No
+		Shipped								No
 	Cloth
-		Shipped						No
+		Shipped								No
 	Truffle
-		Shipped						Yes
+		Shipped								Yes
 	Truffle Oil
-		Shipped						Yes
+		Shipped								Yes
 	Coffee Bean
-		Shipped						Yes
+		Shipped								Yes
 	Goat Milk
-		Shipped						No
+		Shipped								No
 	Large Goat Milk
-		Shipped						No
+		Shipped								No
 	Wool
-		Shipped						No
+		Shipped								No
 	Duck Egg
-		Shipped						No
+		Shipped								No
 	Duck Feather
-		Shipped						No
+		Shipped								No
 	Caviar
-		Shipped						Yes
+		Shipped								Yes
 	Rabbit's Foot
-		Shipped						Yes
+		Shipped								Yes
 	Aged Roe
-		Shipped						Yes
+		Shipped								Yes
 	Ancient Fruit
-		Shipped						No
+		Shipped								No
 	Mead
-		Shipped						No
+		Shipped								No
 	Tulip
-		Shipped						Yes
+		Shipped								Yes
 	Summer Spangle
-		Shipped						No
+		Shipped								No
 	Fairy Rose
-		Shipped						No
+		Shipped								No
 	Blue Jazz
-		Shipped						Yes
+		Shipped								Yes
 	Apple
-		Shipped						No
+		Shipped								No
 	Green Tea
-		Shipped						No
+		Shipped								No
 	Apricot
-		Shipped						No
+		Shipped								No
 	Orange
-		Shipped						No
+		Shipped								No
 	Peach
-		Shipped						No
+		Shipped								No
 	Pomegranate
-		Shipped						No
+		Shipped								No
 	Cherry
-		Shipped						No
+		Shipped								No
 	Bug Meat
-		Shipped						No
+		Shipped								No
 	Hardwood
-		Shipped						No
+		Shipped								No
 	Maple Syrup
-		Shipped						No
+		Shipped								No
 	Oak Resin
-		Shipped						No
+		Shipped								No
 	Pine Tar
-		Shipped						No
+		Shipped								No
 	Slime
-		Shipped						Yes
+		Shipped								Yes
 	Bat Wing
-		Shipped						Yes
+		Shipped								Yes
 	Solar Essence
-		Shipped						Yes
+		Shipped								Yes
 	Void Essence
-		Shipped						Yes
+		Shipped								Yes
 	Fiber
-		Shipped						No
+		Shipped								No
 	Battery Pack
-		Shipped						No
+		Shipped								No
 	Dinosaur Mayonnaise
-		Shipped						No
+		Shipped								No
 	Roe	
-		Shipped						Yes
+		Shipped								Yes
 	Squid Ink
-		Shipped						No
+		Shipped								No
 	Tea Leaves
-		Shipped						No
+		Shipped								No
 	Ginger
-		Shipped						No
+		Shipped								No
 	Taro Root
-		Shipped						Yes
+		Shipped								Yes
 	Pineapple
-		Shipped						Yes
+		Shipped								Yes
 	Mango
-		Shipped						No
+		Shipped								No
 	Cinder Shard
-		Shipped						No
+		Shipped								No
 	Magma Cap
-		Shipped						Yes
+		Shipped								Yes
 	Bone Fragment
-		Shipped						No
+		Shipped								No
 	Radioactive Ore
-		Shipped						No
+		Shipped								No
 	Radioactive Bar
-		Shipped						No
+		Shipped								No
 	Smoke Fish
-		Shipped						Yes
+		Shipped								Yes
 	Moss
-		Shipped						No
+		Shipped								No
 	Mystic Syrup
-		Shipped						No
+		Shipped								No
 	Raisins
-		Shipped						Yes
+		Shipped								Yes
 	Dried Fruit
-		Shipped						Yes
+		Shipped								Yes
 	Dried Mushrooms
-		Shipped						Yes
+		Shipped								Yes
 	Carrot
-		Shipped						No
+		Shipped								No
 	Summer Squash
-		Shipped						No
+		Shipped								No
 	Broccoli
-		Shipped						No
+		Shipped								No
 	Powdermelon
-		Shipped						No
+		Shipped								No
 
 Fish
 	Pufferfish
-		Caught						Yes
+		Caught								Yes
 	Anchovy
-		Caught						Yes
+		Caught								Yes
 	Tuna
-		Caught						Yes
+		Caught								Yes
 	Sardine
-		Caught						Yes
+		Caught								Yes
 	Bream
-		Caught						Yes
+		Caught								Yes
 	Largemouth Bass
-		Caught						Yes
+		Caught								Yes
 	Smallmouth Bass
-		Caught						Yes
+		Caught								Yes
 	Rainbow Trout
-		Caught						Yes
+		Caught								Yes
 	Salmon
-		Caught						No
+		Caught								No
 	Walleye
-		Caught						No
+		Caught								No
 	Perch
-		Caught						Yes
+		Caught								Yes
 	Carp
-		Caught						Yes
+		Caught								Yes
 	Catfish
-		Caught						Yes
+		Caught								Yes
 	Pike
-		Caught						Yes
+		Caught								Yes
 	Sunfish
-		Caught						Yes
+		Caught								Yes
 	Red Mullet
-		Caught						Yes
+		Caught								Yes
 	Herring
-		Caught						Yes
+		Caught								Yes
 	Eel
-		Caught						Yes
+		Caught								Yes
 	Octopus
-		Caught						Yes
+		Caught								Yes
 	Red Snapper
-		Caught						Yes
+		Caught								Yes
 	Squid
-		Caught						Yes
+		Caught								Yes
 	Seaweed
-		Caught						Yes
+		Caught								Yes
 	Green Algae
-		Caught						Yes
+		Caught								Yes
 	Sea Cucumber
-		Caught						Yes
+		Caught								Yes
 	Super Cucumber
-		Caught						Yes
+		Caught								Yes
 	Ghostfish
-		Caught						No
+		Caught								No
 	White Algae
-		Caught						Yes
+		Caught								Yes
 	Stonefish
-		Caught						No
+		Caught								No
 	Crimsonfish
-		Caught						No
+		Caught								No
 	Angler
-		Caught						Yes
+		Caught								Yes
 	Ice Pip
-		Caught						No
+		Caught								No
 	Lava Eel
-		Caught						No
+		Caught								No
 	Legend
-		Caught						No
+		Caught								No
 	Sandfish
-		Caught						Yes
+		Caught								Yes
 	Scorpion Carp
-		Caught						Yes
+		Caught								Yes
 	Flounder
-		Caught						Yes
+		Caught								Yes
 	Midnight Carp
-		Caught						Yes
+		Caught								Yes
 	Clam
-		Caught						Yes
+		Caught								Yes
 	Mutant Carp
-		Caught						Yes
+		Caught								Yes
 	Sturgeon
-		Caught						Yes
+		Caught								Yes
 	Tiger Trout
-		Caught						Yes
+		Caught								Yes
 	Bullhead
-		Caught						Yes
+		Caught								Yes
 	Tilapia
-		Caught						Yes
+		Caught								Yes
 	Chub
-		Caught						Yes
+		Caught								Yes
 	Dorado
-		Caught						Yes
+		Caught								Yes
 	Albacore
-		Caught						Yes
+		Caught								Yes
 	Shad
-		Caught						Yes
+		Caught								Yes
 	Lingcod
-		Caught						Yes
+		Caught								Yes
 	Halibut
-		Caught						Yes
+		Caught								Yes
 	Lobster
-		Caught						Yes
+		Caught								Yes
 	Crayfish
-		Caught						Yes
+		Caught								Yes
 	Crab
-		Caught						No
+		Caught								No
 	Cockle
-		Caught						Yes
+		Caught								Yes
 	Mussel
-		Caught						No
+		Caught								No
 	Shrimp
-		Caught						Yes
+		Caught								Yes
 	Snail
-		Caught						Yes
+		Caught								Yes
 	Periwinkle
-		Caught						Yes
+		Caught								Yes
 	Oyster
-		Caught						Yes
+		Caught								Yes
 	Woodskip
-		Caught						No
+		Caught								No
 	Glacierfish
-		Caught						No
+		Caught								No
 	Void Salmon
-		Caught						Yes
+		Caught								Yes
 	Slimejack
-		Caught						No
+		Caught								No
 	Midnight Squid
-		Caught						No
+		Caught								No
 	Spook Fish
-		Caught						Yes
+		Caught								Yes
 	Blobfish
-		Caught						No
+		Caught								No
 	Stingray
-		Caught						Yes
+		Caught								Yes
 	Lionfish
-		Caught						Yes
+		Caught								Yes
 	Blue Discus
-		Caught						Yes
+		Caught								Yes
 	River Jelly
-		Caught						Yes
+		Caught								Yes
 	Cave Jelly
-		Caught						No
+		Caught								No
 	Sea Jelly
-		Caught						Yes
+		Caught								Yes
 	Goby
-		Caught						No
+		Caught								No
 
 Cooking
 	Fried Egg
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Omelet
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Salad
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Cheese Cauliflower
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Baked Fish
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Parsnip Soup
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Vegetable Medley
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Complete Breakfast
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Fried Calamari
-		Unlocked					Yes
-		Cooked						Yes
+		Unlocked							Yes
+		Cooked								Yes
 	Strange Bun
-		Unlocked					No
-		Cooked						No
+		Unlocked							No
+		Cooked								No
 	Lucky Lunch
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Fried Mushroom
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Pizza
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Bean Hotpot
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Glazed Yams
-		Unlocked					Yes
-		Cooked						Yes
+		Unlocked							Yes
+		Cooked								Yes
 	Carp Surprise
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Hashbrowns
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Pancakes
-		Unlocked					Yes
-		Cooked						Yes
+		Unlocked							Yes
+		Cooked								Yes
 	Salmon Dinner
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Fish Taco
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Crispy Bass
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Pepper Poppers
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Bread
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Tom Kha Soup
-		Unlocked					No
-		Cooked						No
+		Unlocked							No
+		Cooked								No
 	Trout Soup
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Chocolate Cake
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Pink Cake
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Rhubarb Pie
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Cookie
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Spaghetti
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Fried Eel
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Spicy Eel
-		Unlocked					No
-		Cooked						No
+		Unlocked							No
+		Cooked								No
 	Sashimi
-		Unlocked					Yes
-		Cooked						Yes
+		Unlocked							Yes
+		Cooked								Yes
 	Maki Roll
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Tortilla
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Red Plate
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Eggplant Parmesan
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Rice Pudding
-		Unlocked					No
-		Cooked						No
+		Unlocked							No
+		Cooked								No
 	Ice Cream
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Blueberry Tart
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Autumn's Bounty
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Pumpkin Soup
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Super Meal
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Cranberry Sauce
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Stuffing
-		Unlocked					Yes
-		Cooked						Yes
+		Unlocked							Yes
+		Cooked								Yes
 	Farmer's Lunch
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Survival Burger
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Dish O' The Sea
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Miner's Treat
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Roots Platter
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Triple Shot Espresso
-		Unlocked					Yes
-		Cooked						Yes
+		Unlocked							Yes
+		Cooked								Yes
 	Seafoam Pudding
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Algae Soup
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Pale Broth
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Plum Pudding
-		Unlocked					Yes
-		Cooked						Yes
+		Unlocked							Yes
+		Cooked								Yes
 	Artichoke Dip
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Stir Fry
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Roasted Hazelnuts
-		Unlocked					Yes
-		Cooked						Yes
+		Unlocked							Yes
+		Cooked								Yes
 	Pumpkin Pie
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Radish Salad
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Fruit Salad
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Blackberry Cobbler
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Cranberry Candy
-		Unlocked					Yes
-		Cooked						Yes
+		Unlocked							Yes
+		Cooked								Yes
 	Bruschetta
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Coleslaw
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Fiddlehead Risotto
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Poppyseed Muffin
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Chowder
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Fish Stew
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Escargot
-		Unlocked					Yes
-		Cooked						Yes
+		Unlocked							Yes
+		Cooked								Yes
 	Lobster Bisque
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Maple Bar
-		Unlocked					Yes
-		Cooked						Yes
+		Unlocked							Yes
+		Cooked								Yes
 	Crab Cakes
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Shrimp Cocktail
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Ginger Ale
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Banana Pudding
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Mango Sticky Rice
-		Unlocked					No
-		Cooked						No
+		Unlocked							No
+		Cooked								No
 	Poi
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Tropical Curry
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Squid Ink Ravioli
-		Unlocked					Yes
-		Cooked						No
+		Unlocked							Yes
+		Cooked								No
 	Moss Soup
-		Unlocked					Yes
-		Cooked						Yes
+		Unlocked							Yes
+		Cooked								Yes
 
 Achievements
 	Greenhorn
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Cowpoke
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Homesteader
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Millionaire
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Legend
-		Unlocked					No
-		Completed					No
+		Unlocked							No
+		Completed							No
 	A Complete Collection
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	A New Friend
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Best Friends
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	The Beloved Farmer
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Cliques
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Networking
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Popular
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Cook
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Sous Chef
-		Unlocked					Yes
-		Completed					No
+		Unlocked							Yes
+		Completed							No
 	Gourmet Chef
-		Unlocked					No
-		Completed					No
+		Unlocked							No
+		Completed							No
 	Moving Up
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Living Large
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	D.I.Y.
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Artisan
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Craft Master
-		Unlocked					Yes
-		Completed					No
+		Unlocked							Yes
+		Completed							No
 	Fisherman
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Ol' Mariner
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Master Angler
-		Unlocked					Yes
-		Completed					No
+		Unlocked							Yes
+		Completed							No
 	Mother Catch
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Treasure Trove
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Gofer
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	A Big Help
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Polyculture
-		Unlocked					Yes
-		Completed					No
+		Unlocked							Yes
+		Completed							No
 	Monoculture
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Full Shipment
-		Unlocked					Yes
-		Completed					No
+		Unlocked							Yes
+		Completed							No
 	A Distant Shore
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Well-Read
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Two Thumbs Up
-		Unlocked					No
-		Completed					No
+		Unlocked							No
+		Completed							No
 	Blue Ribbon
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	An Unforgettable Soup
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Good Neighbors
-		Unlocked					Yes
-		Completed					No
+		Unlocked							Yes
+		Completed							No
 	Danger In The Deep
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Infinite Power
-		Unlocked					Yes
-		Completed					Yes
+		Unlocked							Yes
+		Completed							Yes
 	Perfection
-		Unlocked					No
-		Completed					No
+		Unlocked							No
+		Completed							No
+
+Farm Buildings
+	Mill
+	Silo
+		Hay									175/240
+	Deluxe Barn
+		Auto-Petter							Yes
+		Heater								Yes
+		Animals
+			Sollover
+				Type						Pig
+				Hearts						3
+			Limabella
+				Type						Pig
+				Hearts						3
+			Belley
+				Type						Pig
+				Hearts						3
+			Sotcha
+				Type						Pig
+				Hearts						3
+			Chepus
+				Type						Pig
+				Hearts						3
+			Chupa
+				Type						Pig
+				Hearts						3
+			Shubba
+				Type						Pig
+				Hearts						3
+			Snasko
+				Type						Pig
+				Hearts						3
+			Totie
+				Type						Pig
+				Hearts						3
+			Pracku
+				Type						Pig
+				Hearts						3
+			Tutchers
+				Type						Pig
+				Hearts						3
+			Mullello
+				Type						Pig
+				Hearts						3
+	Deluxe Coop
+		Auto-Petter							Yes
+		Auto-Grabber						Yes
+		Heater								No
+		Animals
+			Joto
+				Type						Brown Chicken
+				Hearts						5
+				Golden Animal Cracker		Yes
+			Guso
+				Type						White Chicken
+				Hearts						5
+				Golden Animal Cracker		Yes
+			Ducky
+				Type						Duck
+				Hearts						2
+				Golden Animal Cracker		No
+			Renona
+				Type						Rabbit
+				Hearts						2
+				Golden Animal Cracker		No
+	🚧Greenhouse🚧
+	Obelisks
+		Earth Obelisk						Yes
+		Water Obelisk						Yes
+		Desert Obelisk						Yes
+		Island Obelisk						Yes
