@@ -1,361 +1,446 @@
 Requirements
-	Produce & Forage Shipped		38%
-		Cave Carrot					🎒
-		Coconut						🎒
-		Cactus Fruit				🎒
-		Banana						🎒
-		Large Milk
-		Garlic						🎒
-		Rhubarb
-		Melon						🎒
-		Tomato						🎒
-		Morel						🎒
-		Hot Pepper					🎒
-		Wheat						🍰
-		Radish						🎒
-		Red Cabbage					🎒
-		Starfruit					🎒
-		Corn						🎒
-		Unmilled Rice				🎒
-		Eggplant
-		Artichoke
-		Pumpkin						⏳
-		Bok Choy
-		Yam							🎒
-		Chanterelle					🎒
-		Cranberries					🎒
-		Beet
-		Ostrich Egg
-		Salmonberry					🎒
-		Amaranth					🎒
-		Pale Ale					🎒
-		Hops
-		Void Egg					🎒
-		Mayonnaise					🍰
-		Duck Mayonnaise				🍰
-		Void Mayonnaise				🍰
-		Clay						🎒
-		Beer
-		Poppy
-		Copper Ore					🎒
-		Iron Ore					🎒
-		Coal						🎒
-		Gold Ore					🎒
-		Iridium Ore					🎒
-		Wood						🎒
-		Strawberry					🎒
-		Common Mushroom				🎒
-		Wild Plum					🎒
-		Hazelnut					🎒
-		Winter Root					🎒
-		Red Mushroom				🎒
-		Sunflower					🎒
-		Purple Mushroom				🎒
-		Cheese
-		Goat Cheese
-		Cloth						🎒
-		Goat Milk
-		Large Goat Milk
-		Wool						🎒
-		Duck Egg					🎒
-		Duck Feather				🎒
-		Ancient Fruit				⏳
-		Mead						🍰
-		Summer Spangle
-		Fairy Rose
-		Apple						🎒
-		Green Tea
-		Apricot						🎒
-		Orange						🎒
-		Peach						🎒
-		Pomegranate					🎒
-		Cherry
-		Bug Meat					🎒
-		Hardwood					🎒
-		Maple Syrup					🎒
-		Oak Resin					🎒
-		Pine Tar					🍰
-		Fiber						🎒
-		Battery Pack				🎒
-		Dinosaur Mayonnaise			🍰
-		Squid Ink					🎒
-		Tea Leaves					🎒
-		Ginger						🎒
-		Mango						🎒
-		Cinder Shard				🎒
-		Bone Fragment				🎒
-		Radioactive Ore				🎒
-		Radioactive Bar				🎒
-		Moss						🎒
-		Mystic Syrup
-		Carrot						🎒
-		Summer Squash				🎒
-		Broccoli					🎒
-		Powdermelon					🎒
-	Obelisk							🗹
-	Golden Clock					☐
-		Waivers						1/10
-	Monster Slayer Hero				🗹
-		Slimes						🗹
-		Void Spirits				🗹
-		Bats						🗹
-		Skeletons					🗹
-		Cave Insects				🗹
-		Duggies						🗹
-		Dust Sprites				🗹
-		Rock Crabs					🗹
-		Mummies						🗹
-		Pepper Rex					🗹
-		Serpents					🗹
-		Magma Sprites				🗹
-	Great Friends					29%
-	Farmer Level					🗹
-	Stardrops						☐
-		Stardew Valley Fair			🗹
-		The Mines Floor 100			🗹
-		Player's spouse				🍰
-		Sold by Krobus				🗹
-		Old Master Cannoli			🗹
-		Master Angler Achievement
-		Museum						🗹
-	Cooking							14%
-		Fried Egg
-		Omelet
-		Salad
-		Cheese Cauliflower
-		Baked Fish
-		Parsnip Soup
-		Vegetable Medley
-		Complete Breakfast
-		Strange Bun
-		Lucky Lunch
-		Fried Mushroom
-		Pizza
-		Bean Hotpot
-		Carp Surprise
-		Hashbrowns
-		Salmon Dinner
-		Fish Taco
-		Crispy Bass
-		Pepper Poppers
-		Bread
-		Tom Kha Soup
-		Trout Soup
-		Chocolate Cake
-		Pink Cake
-		Rhubarb Pie
-		Cookie
-		Spaghetti
-		Fried Eel
-		Spicy Eel
-		Maki Roll
-		Tortilla
-		Red Plate
-		Eggplant Parmesan
-		Rice Pudding
-		Ice Cream
-		Blueberry Tart
-		Autumn's Bounty
-		Pumpkin Soup
-		Super Meal
-		Cranberry Sauce
-		Farmer's Lunch
-		Survival Burger
-		Dish O' The Sea
-		Miner's Treat
-		Roots Platter
-		Seafoam Pudding
-		Algae Soup
-		Pale Broth
-		Artichoke Dip
-		Stir Fry
-		Pumpkin Pie
-		Radish Salad
-		Fruit Salad
-		Blackberry Cobbler
-		Bruschetta
-		Coleslaw
-		Fiddlehead Risotto
-		Poppyseed Muffin
-		Chowder
-		Fish Stew
-		Lobster Bisque
-		Crab Cakes
-		Shrimp Cocktail
-		Ginger Ale
-		Banana Pudding
-		Mango Sticky Rice
-		Poi
-		Tropical Curry
-		Squid Ink Ravioli
-	Crafting						43%
-		Cherry Bomb					🗹
-		Bomb
-		Mega Bomb
-		Gate						🗹
-		Wood Fence					🗹
-		Stone Fence
-		Iron Fence
-		Hardwood Fence				🗹
-		Sprinkler					🗹
-		Quality Sprinkler			🗹
-		Iridium Sprinkler			🗹
-		Mayonnaise Machine			🗹
-		Bee House					🗹
-		Preserves Jar				🗹
-		Cheese Press
-		Loom
-		Keg							🗹
-		Oil Maker					🗹
-		Cask						🗹
-		Fish Smoker
-		Dehydrator
-		Basic Fertilizer			🗹
-		Quality Fertilizer
-		Deluxe Fertilizer
-		Speed-Gro
-		Deluxe Speed-Gro			🗹
-		Hyper Speed-Gro				🗹
-		Basic Retaining Soil
-		Quality Retaining Soil
-		Deluxe Retaining Soil
-		Tree Fertilizer				🗹
-		Wild Seeds (Spring)
-		Wild Seeds (Summer)
-		Wild Seeds (Fall)
-		Wild Seeds (Winter)
-		Ancient Seeds				🗹
-		Grass Starter				🗹
-		Blue Grass Starter
-		Tea Sapling
-		Fiber Seeds					🗹
-		Mystic Tree Seed			🗹
-		Wood Floor
-		Rustic Plank Floor			🗹
-		Straw Floor
-		Weathered Floor
-		Crystal Floor
-		Stone Floor					🗹
-		Stone Walkway Floor			🗹
-		Brick Floor					🗹
-		Wood Path					🗹
-		Gravel Path					🗹
-		Cobblestone Path			🗹
-		Stepping Stone Path			🗹
-		Crystal Path
-		Spinner
-		Trap Bobber
-		Sonar Bobber
-		Cork Bobber
-		Quality Bobber
-		Treasure Hunter
-		Dressed Spinner
-		Barbed Hook
-		Magnet
-		Bait						🗹
-		Deluxe Bait					🗹
-		Wild Bait
-		Magic Bait
-		Challenge Bait
-		Crab Pot					🗹
-		Sturdy Ring
-		Warrior Ring
-		Ring of Yoba
-		Thorns Ring
-		Glowstone Ring				🗹
-		Iridium Band				🗹
-		Field Snack					🗹
-		Bug Steak					🗹
-		Life Elixir					🗹
-		Oil of Garlic
-		Monster Musk
-		Fairy Dust
-		Warp Totem: Beach			🗹
-		Warp Totem: Mountains
-		Warp Totem: Farm			🗹
-		Warp Totem: Desert			🗹
-		Warp Totem: Island			🗹
-		Rain Totem
-		Treasure Totem
-		Torch
-		Campfire
-		Wooden Brazier
-		Stone Brazier				🗹
-		Gold Brazier
-		Carved Brazier
-		Stump Brazier
-		Barrel Brazier
-		Skull Brazier
-		Marble Brazier				🗹
-		Wood Lamp-Post				🗹
-		Iron Lamp-Post
-		Jack-O-Lantern
-		Charcoal Kiln
-		Crystalarium				⏳
-		Furnace						🗹
-		Heavy Furnace				🗹
-		Lightning Rod				🗹
-		Solar Panel					⏳
-		Recycling Machine			🍰
-		Seed Maker					🗹
-		Slime Incubator
-		Ostrich Incubator
-		Slime Egg-Press
-		Tapper						🗹
-		Heavy Tapper
-		Worm Bin
-		Deluxe Worm Bin
-		Bone Mill
-		Geode Crusher				🗹
-		Mushroom Log				🗹
-		Bait Maker
-		Tub o'Flowers
-		Wicked Statue
-		Flute Block
-		Drum Block
-		Chest						🗹
-		Stone Chest
-		Big Chest					🗹
-		Big Stone Chest
-		Wood Sign
-		Stone Sign
-		Dark Sign
-		Text Sign
-		Garden Pot
-		Scarecrow					🗹
-		Deluxe Scarecrow			🗹
-		Staircase					🗹
-		Explosive Ammo
-		Transmute (Fe)				🗹
-		Transmute (Au)				🗹
-		Mini-Jukebox
-		Mini-Obelisk				🗹
-		Farm Computer				🗹
-		Hopper
-		Cookout Kit					🗹
-		Tent Kit
-		Statue Of The Dwarf King	🗹
-		Statue Of Blessings			🗹
-		Anvil						🗹
-		Mini-Forge					🗹
-	Fish Caught						76%
-		Salmon
-		Walleye
-		Ghostfish
-		Stonefish
-		Crimsonfish
-		Ice Pip
-		Lava Eel
-		Legend
-		Crab						🎒
-		Mussel
-		Woodskip
-		Glacierfish
-		Slimejack
-		Midnight Squid
-		Blobfish
-		Cave Jelly
-		Goby
-	Golden Walnuts					🗹
+	Produce & Forage Shipped				38%
+		Waivers								Probably
+		Remaining
+			Cave Carrot						🎒
+			Coconut							🎒
+			Cactus Fruit					🎒
+			Banana							🎒
+			Large Milk
+			Garlic							🎒
+			Rhubarb
+			Melon							🎒
+			Tomato							🎒
+			Morel							🎒
+			Hot Pepper						🎒
+			Wheat							🍰
+			Radish							🎒
+			Red Cabbage						🎒
+			Starfruit						🎒
+			Corn							🎒
+			Unmilled Rice					🎒
+			Eggplant
+			Artichoke
+			Pumpkin							⏳
+			Bok Choy
+			Yam								🎒
+			Chanterelle						🎒
+			Cranberries						🎒
+			Beet
+			Ostrich Egg
+			Salmonberry						🎒
+			Amaranth						🎒
+			Pale Ale						🎒
+			Hops
+			Void Egg						🎒
+			Mayonnaise						🍰
+			Duck Mayonnaise					🍰
+			Void Mayonnaise					🍰
+			Clay							🎒
+			Beer
+			Poppy
+			Copper Ore						🎒
+			Iron Ore						🎒
+			Coal							🎒
+			Gold Ore						🎒
+			Iridium Ore						🎒
+			Wood							🎒
+			Strawberry						🎒
+			Common Mushroom					🎒
+			Wild Plum						🎒
+			Hazelnut						🎒
+			Winter Root						🎒
+			Red Mushroom					🎒
+			Sunflower						🎒
+			Purple Mushroom					🎒
+			Cheese
+			Goat Cheese
+			Cloth							🎒
+			Goat Milk
+			Large Goat Milk
+			Wool							🎒
+			Duck Egg						🎒
+			Duck Feather					🎒
+			Ancient Fruit					⏳
+			Mead							🍰
+			Summer Spangle
+			Fairy Rose
+			Apple							🎒
+			Green Tea
+			Apricot							🎒
+			Orange							🎒
+			Peach							🎒
+			Pomegranate						🎒
+			Cherry
+			Bug Meat						🎒
+			Hardwood						🎒
+			Maple Syrup						🎒
+			Oak Resin						🎒
+			Pine Tar						🍰
+			Fiber							🎒
+			Battery Pack					🎒
+			Dinosaur Mayonnaise				🍰
+			Squid Ink						🎒
+			Tea Leaves						🎒
+			Ginger							🎒
+			Mango							🎒
+			Cinder Shard					🎒
+			Bone Fragment					🎒
+			Radioactive Ore					🎒
+			Radioactive Bar					🎒
+			Moss							🎒
+			Mystic Syrup
+			Carrot							🎒
+			Summer Squash					🎒
+			Broccoli						🎒
+			Powdermelon						🎒
+	Obelisk									🗹
+		Waivers								No
+	Golden Clock							☐
+		Waivers								1/10
+	Monster Slayer Hero						🗹
+		Waivers								No
+	Great Friends							29%
+		Waivers								No
+		Remaining
+			Vincent
+				Loved Gifts					Grape, Snail, Pink Cake, Ginger Ale
+				Birthday					Spring 10
+			Shane
+				Loved Gifts					Hot Pepper, Beer, Pizza
+				Birthday					Spring 20
+			Pierre
+				Loved Gifts					Fried Calamari, Price Catalogue
+				Birthday					Spring 26
+			Emily
+				Loved Gifts					Amethyst, Aquamarine, Cloth
+				Birthday					Spring 27
+			Jas
+				Loved Gifts					Plum Pudding, Pink Cake
+				Birthday					Summer 4
+			Gus
+				Loved Gifts					Orange, Escargot, Diamond
+				Birthday					Summer 8
+			Alex
+				Loved Gifts					Jack Be Nimble Jack Be Thick, Salmon Dinner, Complete Breakfast
+				Birthday					Summer 13
+			Sam
+				Loved Gifts					Cactus Fruit, Maple Bar, Pizza
+				Birthday					Summer 17
+			Demetrius
+				Loved Gifts					Strawberry, Ice Cream, Rice Pudding
+				Birthday					Summer 19
+			Dwarf
+				Loved Gifts					Topaz, Omni Geode
+				Birthday					Summer 22
+			Leo
+				Loved Gifts					Mango, Poi, Duck Feather
+				Birthday					Summer 26
+			Jodi
+				Loved Gifts					Chocolate Cake, Pancake
+				Birthday					Fall 11
+			Abigail
+				Loved Gifts					Amethyst, Spicy Eel
+				Birthday					Fall 13
+			Sandy
+				Loved Gifts					Crocus, Daffodil, Sweet Pea
+				Birthday					Fall 15
+			Marnie
+				Loved Gifts					Diamond, Pink Cake, Pumpkin Pie
+				Birthday					Fall 18
+			Robin
+				Loved Gifts					Peach, Spaghetti, Woody's Secret
+				Birthday					Fall 21
+			George
+				Loved Gifts					Leek, Fried Mushroom
+				Birthday					Fall 24
+			Krobus
+				Loved Gifts					Wild Horseradish
+				Birthday					Winter 1
+			Caroline
+				Loved Gifts					Green Tea, Tropical Curry, Rabbit's Foot, Golden Pumpkin
+				Birthday					Winter 7
+			Sebastian
+				Loved Gifts					Sashimi, Frozen Tear, Pumpkin Soup
+				Birthday					Winter 10
+			Harvey
+				Loved Gifts					Coffee, Pickles, Wine, Truffle Oil
+				Birthday					Winter 14
+			Wizard
+				Loved Gifts					Solar Essence, Void Essence
+				Birthday					Winter 17
+			Evelyn
+				Loved Gifts					Stuffing, Raisins
+				Birthday					Winter 20
+			Leah
+				Loved Gifts					Truffle, Wine, Salad
+				Birthday					Winter 23
+			Willy
+				Loved Gifts					Sturgeon, Pumpkin, Sea Cucumber, Mead
+				Birthday					Summer 24
+	Farmer Level							🗹
+		Waivers								No
+	Stardrops								☐
+		Waivers								No
+		Remaining
+			Player's spouse					🍰
+			↖️Master Angler Achievement
+				Source						Fish Caught
+	Cooking									14%
+		Waivers								No (i think so)
+		Remaining
+			Fried Egg
+			Omelet
+			Salad
+			Cheese Cauliflower
+			Baked Fish
+			Parsnip Soup
+			Vegetable Medley
+			Complete Breakfast
+			Strange Bun
+			Lucky Lunch
+			Fried Mushroom
+			Pizza
+			Bean Hotpot
+			Carp Surprise
+			Hashbrowns
+			Salmon Dinner
+			Fish Taco
+			Crispy Bass
+			Pepper Poppers
+			Bread
+			Tom Kha Soup
+			Trout Soup
+			Chocolate Cake
+			Pink Cake
+			Rhubarb Pie
+			Cookie
+			Spaghetti
+			Fried Eel
+			Spicy Eel
+			Maki Roll
+			Tortilla
+			Red Plate
+			Eggplant Parmesan
+			Rice Pudding
+			Ice Cream
+			Blueberry Tart
+			Autumn's Bounty
+			Pumpkin Soup
+			Super Meal
+			Cranberry Sauce
+			Farmer's Lunch
+			Survival Burger
+			Dish O' The Sea
+			Miner's Treat
+			Roots Platter
+			Seafoam Pudding
+			Algae Soup
+			Pale Broth
+			Artichoke Dip
+			Stir Fry
+			Pumpkin Pie
+			Radish Salad
+			Fruit Salad
+			Blackberry Cobbler
+			Bruschetta
+			Coleslaw
+			Fiddlehead Risotto
+			Poppyseed Muffin
+			Chowder
+			Fish Stew
+			Lobster Bisque
+			Crab Cakes
+			Shrimp Cocktail
+			Ginger Ale
+			Banana Pudding
+			Mango Sticky Rice
+			Poi
+			Tropical Curry
+			Squid Ink Ravioli
+	Crafting								43%
+		Waivers								Probably
+		Remaining
+			Bomb
+			Mega Bomb
+			Stone Fence
+			Iron Fence
+			Cheese Press
+			Loom
+			Fish Smoker
+			Dehydrator
+			Quality Fertilizer
+			Deluxe Fertilizer
+			Speed-Gro
+			Basic Retaining Soil
+			Quality Retaining Soil
+			Deluxe Retaining Soil
+			Wild Seeds (Spring)
+			Wild Seeds (Summer)
+			Wild Seeds (Fall)
+			Wild Seeds (Winter)
+			Blue Grass Starter
+			Tea Sapling
+			Wood Floor
+			Straw Floor
+			Weathered Floor
+			Crystal Floor
+			Crystal Path
+			Spinner
+			Trap Bobber
+			Sonar Bobber
+			Cork Bobber
+			Quality Bobber
+			Treasure Hunter
+			Dressed Spinner
+			Barbed Hook
+			Magnet
+			Wild Bait
+			Magic Bait
+			Challenge Bait
+			Sturdy Ring
+			Warrior Ring
+			Ring of Yoba
+			Thorns Ring
+			Oil of Garlic
+			Monster Musk
+			Fairy Dust
+			Warp Totem: Mountains
+			Rain Totem
+			Treasure Totem
+			Torch
+			Campfire
+			Wooden Brazier
+			Gold Brazier
+			Carved Brazier
+			Stump Brazier
+			Barrel Brazier
+			Skull Brazier
+			Iron Lamp-Post
+			Jack-O-Lantern
+			Charcoal Kiln
+			Crystalarium					⏳
+			Solar Panel						⏳
+			Recycling Machine				🍰
+			Slime Incubator
+			Ostrich Incubator
+			Slime Egg-Press
+			Heavy Tapper
+			Worm Bin
+			Deluxe Worm Bin
+			Bone Mill
+			Bait Maker
+			Tub o'Flowers
+			Wicked Statue
+			Flute Block
+			Drum Block
+			Stone Chest
+			Big Stone Chest
+			Wood Sign
+			Stone Sign
+			Dark Sign
+			Text Sign
+			Garden Pot
+			Explosive Ammo
+			Mini-Jukebox
+			Hopper
+			Tent Kit
+	Fish Caught								76%
+		Waivers								No
+		Remaining
+			Legend
+				Season						Spring
+				Location					Mountain Lake
+				Weather						Rain
+				Time						Any
+				Difficulty					110
+			Crimsonfish
+				Season						Summer
+				Location					Ocean
+				Weather						Any
+				Time						Any
+				Difficulty					95
+			Walleye
+				Season						Fall, Winter (with Rain Totem)
+				Location					River, Mountain Lake, Forest Pond
+				Weather						Rain
+				Time						12pm - 2am
+				Difficulty					45
+			Salmon
+				Season						Fall
+				Location					River
+				Weather						Any
+				Time						6am - 7pm (any in waterfalls)
+				Difficulty					50
+			Midnight Squid
+				Season						Winter
+				Location					Submarine (Night Market)
+				Weather						Any
+				Time						Anytime during Night Market (5pm - 2am)
+				Difficulty					55
+			Blobfish
+				Season						Winter
+				Location					Submarine (Night Market)
+				Weather						Any
+				Time						Anytime during Night Market (5pm - 2am)
+				Difficulty					75
+			Glacierfish
+				Season						Winter
+				Location					Cindersap Forest
+				Weather						Any
+				Time						Any
+				Difficulty					100
+			Woodskip
+				Season						All
+				Location					Secret Woods
+				Weather						Any
+				Time						Any
+				Difficulty					50
+			Slimejack
+				Season						All
+				Location					Mutant Bug Lair
+				Weather						Any
+				Time						Any
+				Difficulty					55
+			Goby
+				Season						All
+				Location					Cindersap Forest Waterfalls
+				Weather						Any
+				Time						Any
+				Difficulty					55
+			Ghostfish
+				Season						All
+				Location					The Mines (20, 60)
+				Weather						Any
+				Time						Any
+				Difficulty					50
+			Stonefish
+				Season						All
+				Location					The Mines (20)
+				Weather						Any
+				Time						Any
+				Difficulty					65
+			Ice Pip
+				Season						All
+				Location					The Mines (60)
+				Weather						Any
+				Time						Any
+				Difficulty					85
+			Lava Eel
+				Season						All
+				Location					The Mines (100), Volcano Caldera
+				Weather						Any
+				Time						Any
+				Difficulty					90
+			Cave Jelly
+				Season						All
+				Location					The Mines (20, 60, 100)
+			Crab
+				Season						All
+				Location					Saltwater (Crab Pot)
+			Mussel
+				Season						All
+				Location					Saltwater (Crab Pot)
+	Golden Walnuts							🗹
 
-Total Complete						46% (+1 waiver)
+Total Complete								46% (+1 waiver)
