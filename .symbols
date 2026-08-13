@@ -10,8 +10,14 @@ parallel jobs
 dependencies
 ⬅️↖️◀️⬇️
 
-priority
+top priority
 ⚠️☢️☣️
+
+higher priority
+🔼
+
+lower priority
+🔽
 
 in posession
 🎒
