@@ -181,7 +181,7 @@ Requirements
 		Steps
 			If today is someone's birthday whose relationship is not maximized
 				Empty inventory
-				Full inventory with loved gifts prioritizing the birthday boy/girl and those people whose birthday is furthest in time
+				Fill inventory with loved gifts prioritizing the birthday boy/girl and those people whose birthday is furthest in time
 				Gift all loved items
 	Farmer Level							🗹
 	Stardrops								☐
@@ -190,7 +190,7 @@ Requirements
 			Player's spouse					🍰
 				Candidate					Haley
 				Dependencies
-					Great Friend
+					Great Friends
 			Master Angler Achievement
 				Dependencies
 					Fish Caught
@@ -355,7 +355,7 @@ Requirements
 			Tent Kit
 	Fish Caught								76%
 		Relative Priorities
-			Great Friend					🔽
+			Great Friends					🔽
 		Waivers								No
 		Remaining
 			Legend
