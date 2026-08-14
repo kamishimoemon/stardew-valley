@@ -95,12 +95,12 @@ Requirements
 			Broccoli						🎒
 			Powdermelon						🎒
 	Obelisk									🗹
-		Waivers								No
 	Golden Clock							☐
 		Waivers								1/10
 	Monster Slayer Hero						🗹
-		Waivers								No
 	Great Friends							29%
+		Relative Priorities
+			Fish Caught						🔼
 		Waivers								No
 		Remaining
 			Vincent
@@ -178,16 +178,24 @@ Requirements
 			Willy
 				Loved Gifts					Sturgeon, Pumpkin, Sea Cucumber, Mead
 				Birthday					Summer 24
+		Steps
+			If today is someone's birthday whose relationship is not maximized
+				Empty inventory
+				Full inventory with loved gifts prioritizing the birthday boy/girl and those people whose birthday is furthest in time
+				Gift all loved items
 	Farmer Level							🗹
-		Waivers								No
 	Stardrops								☐
 		Waivers								No
 		Remaining
 			Player's spouse					🍰
-			↖️Master Angler Achievement
-				Source						Fish Caught
+				Candidate					Haley
+				Dependencies
+					Great Friend
+			Master Angler Achievement
+				Dependencies
+					Fish Caught
 	Cooking									14%
-		Waivers								No (i think so)
+		Waivers								No (i think)
 		Remaining
 			Fried Egg
 			Omelet
@@ -346,6 +354,8 @@ Requirements
 			Hopper
 			Tent Kit
 	Fish Caught								76%
+		Relative Priorities
+			Great Friend					🔽
 		Waivers								No
 		Remaining
 			Legend
@@ -354,93 +364,179 @@ Requirements
 				Weather						Rain
 				Time						Any
 				Difficulty					110
-			Crimsonfish
-				Season						Summer
-				Location					Ocean
-				Weather						Any
-				Time						Any
-				Difficulty					95
-			Walleye
-				Season						Fall, Winter (with Rain Totem)
-				Location					River, Mountain Lake, Forest Pond
-				Weather						Rain
-				Time						12pm - 2am
-				Difficulty					45
-			Salmon
-				Season						Fall
-				Location					River
-				Weather						Any
-				Time						6am - 7pm (any in waterfalls)
-				Difficulty					50
-			Midnight Squid
-				Season						Winter
-				Location					Submarine (Night Market)
-				Weather						Any
-				Time						Anytime during Night Market (5pm - 2am)
-				Difficulty					55
-			Blobfish
-				Season						Winter
-				Location					Submarine (Night Market)
-				Weather						Any
-				Time						Anytime during Night Market (5pm - 2am)
-				Difficulty					75
+				Strategy
+					Bait					Deluxe Bait
+					Tackle					Trap Bobber x2
+					Food					Seafoam Pudding > Lobster Bisque > Fish Stew > Dish O' The Sea
+					Enchantment				Master
 			Glacierfish
 				Season						Winter
 				Location					Cindersap Forest
 				Weather						Any
 				Time						Any
 				Difficulty					100
-			Woodskip
-				Season						All
-				Location					Secret Woods
+				Strategy
+					Bait					Deluxe Bait
+					Tackle					Trap Bobber x2
+					Food					Seafoam Pudding > Lobster Bisque > Fish Stew > Dish O' The Sea
+					Enchantment				Master
+			Crimsonfish
+				Season						Summer
+				Location					Ocean
 				Weather						Any
 				Time						Any
-				Difficulty					50
-			Slimejack
-				Season						All
-				Location					Mutant Bug Lair
-				Weather						Any
-				Time						Any
-				Difficulty					55
-			Goby
-				Season						All
-				Location					Cindersap Forest Waterfalls
-				Weather						Any
-				Time						Any
-				Difficulty					55
-			Ghostfish
-				Season						All
-				Location					The Mines (20, 60)
-				Weather						Any
-				Time						Any
-				Difficulty					50
-			Stonefish
-				Season						All
-				Location					The Mines (20)
-				Weather						Any
-				Time						Any
-				Difficulty					65
-			Ice Pip
-				Season						All
-				Location					The Mines (60)
-				Weather						Any
-				Time						Any
-				Difficulty					85
+				Difficulty					95
+				Strategy
+					Bait					Deluxe Bait
+					Tackle					Trap Bobber x2
+					Food					Seafoam Pudding > Lobster Bisque > Fish Stew > Dish O' The Sea
+					Enchantment				Master
 			Lava Eel
 				Season						All
 				Location					The Mines (100), Volcano Caldera
 				Weather						Any
 				Time						Any
 				Difficulty					90
+				Strategy
+					Bait					Deluxe Bait
+					Tackle					Trap Bobber x2
+					Food					Seafoam Pudding > Lobster Bisque > Fish Stew > Dish O' The Sea
+					Enchantment				Master
+			Ice Pip
+				Season						All
+				Location					The Mines (60)
+				Weather						Any
+				Time						Any
+				Difficulty					85
+				Strategy
+					Bait					Deluxe Bait
+					Tackle					Curiosity Lure + Trap Bobber
+					Food					Lobster Bisque > Fish Stew > Dish O' The Sea
+					Enchantment				Master
+			Blobfish
+				Season						Winter
+				Location					Submarine (Night Market)
+				Weather						Any
+				Time						Anytime during Night Market (5pm - 2am)
+				Difficulty					75
+				Strategy
+					Bait					Deluxe Bait
+					Tackle					Curiosity Lure + Trap Bobber
+					Food					Lobster Bisque > Fish Stew > Dish O' The Sea
+					Enchantment				Master
+			Stonefish
+				Season						All
+				Location					The Mines (20)
+				Weather						Any
+				Time						Any
+				Difficulty					65
+				Strategy
+					Bait					Deluxe Bait
+					Tackle					Curiosity Lure + Trap Bobber
+					Food					Lobster Bisque > Fish Stew > Dish O' The Sea
+					Enchantment				Master
+			Midnight Squid
+				Season						Winter
+				Location					Submarine (Night Market)
+				Weather						Any
+				Time						Anytime during Night Market (5pm - 2am)
+				Difficulty					55
+				Strategy
+					Bait					Deluxe Bait
+					Tackle					Dressed Spinner + Trap Bobber
+					Food					Lobster Bisque > Fish Stew > Dish O' The Sea
+					Enchantment				Master
+			Slimejack
+				Season						All
+				Location					Mutant Bug Lair
+				Weather						Any
+				Time						Any
+				Difficulty					55
+				Strategy
+					Bait					Deluxe Bait
+					Tackle					Dressed Spinner x2
+					Food					Lobster Bisque > Fish Stew > Dish O' The Sea
+					Enchantment				Master
+			Goby
+				Season						All
+				Location					Cindersap Forest Waterfalls
+				Weather						Any
+				Time						Any
+				Difficulty					55
+				Strategy
+					Bait					Deluxe Bait
+					Tackle					Curiosity Lure + Dressed Spinner
+					Food					Lobster Bisque > Fish Stew > Dish O' The Sea
+					Enchantment				Master
+			Salmon
+				Season						Fall
+				Location					River
+				Weather						Any
+				Time						6am - 7pm (any in waterfalls)
+				Difficulty					50
+				Strategy
+					Bait					Deluxe Bait
+					Tackle					Dressed Spinner x2
+					Food					Lobster Bisque > Fish Stew > Dish O' The Sea
+					Enchantment				Master
+			Woodskip
+				Season						All
+				Location					Secret Woods
+				Weather						Any
+				Time						Any
+				Difficulty					50
+				Strategy
+					Bait					Deluxe Bait
+					Tackle					Dressed Spinner x2
+					Food					Lobster Bisque > Fish Stew > Dish O' The Sea
+					Enchantment				Master
+			Ghostfish
+				Season						All
+				Location					The Mines (20, 60)
+				Weather						Any
+				Time						Any
+				Difficulty					50
+				Strategy
+					Bait					Deluxe Bait
+					Tackle					Dressed Spinner x2
+					Food					Lobster Bisque > Fish Stew > Dish O' The Sea
+					Enchantment				Master
+			Walleye
+				Season						Fall, Winter (with Rain Totem)
+				Location					River, Mountain Lake, Forest Pond
+				Weather						Rain
+				Time						12pm - 2am
+				Difficulty					45
+				Strategy
+					Bait					Deluxe Bait
+					Tackle					Dressed Spinner x2
+					Food					Lobster Bisque > Fish Stew > Dish O' The Sea
+					Enchantment				Master
 			Cave Jelly
 				Season						All
 				Location					The Mines (20, 60, 100)
+				Strategy
+					Tackle					Dressed Spinner x2
 			Crab
 				Season						All
-				Location					Saltwater (Crab Pot)
+				Location					Crab Pot (Saltwater)
+				Strategy
+					Profession				Mariner
+					Bait					Challenge Bait > Wild Bait > Bait
 			Mussel
 				Season						All
-				Location					Saltwater (Crab Pot)
+				Location					Crab Pot (Saltwater)
+				Strategy
+					Profession				Mariner
+					Bait					Challenge Bait > Wild Bait > Bait
+		Strategy
+			Change fishing profession to Trapper + Mariner
+			Craft Crab Pots
+			Analyze if crafting and placing Worm Bins on Crab Pot Farms is viable
+			Place 2/5 on freshwater, 3/5 on saltwater
+			Prioritize catch to cook food that buff fishing
+			If Statue Of Blessings grants Blessing Of Waters
+				Go fishing (prioritize fish with higher difficulty)
 	Golden Walnuts							🗹
 
 Total Complete								46% (+1 waiver)

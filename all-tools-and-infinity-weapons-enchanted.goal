@@ -17,6 +17,9 @@ Tools
 	Fishing Rod
 		Enchantment: Auto-Hook
 		Priority: 3
+		Dependencies
+			Fish Caught
+				Source				Perfection
 	Pan
 		Enchantment: Generous
 		Priority: 3
