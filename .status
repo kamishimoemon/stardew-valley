@@ -1161,3 +1161,376 @@ Farm Buildings
 		Water Obelisk						Yes
 		Desert Obelisk						Yes
 		Island Obelisk						Yes
+
+Storage
+	Animal Product
+		Rabbit's Foot						5
+		Void Egg							1
+	Artisan Goods
+		Cloth								216
+		Crytal Fruit Jelly					1
+		Dried Common Mushrooms				41
+		Dried Magma Caps					1
+		Blue Jazz Honey						6
+		Maple Syrup							75
+		Oak Resin							189
+		Pale Ale							64
+		Pickled Carrot						62
+		Pickled Pumpkin						9
+		Potato Juice						12
+		Raisins								1
+		Wild Honey							187
+	Bait
+		Challenge Bait						8
+		Deluxe Bait							195
+		Wild Bait							8
+	Book
+		Book Of Stars						1
+		Jack Be Nimble, Jack Be Thick		1
+		Mining Monthly						2
+		Woodcutter's Weekly					1
+		Woody's Secret						2
+	Cooking
+		Algae Soup							6
+		Baked Fish							3
+		Bread								25
+		Bug Steak							1
+		Cheese Cauliflower					1
+		Chocolate Cake						1
+		Chowder								2
+		Cookies								12
+		Crab Cakes							50
+		Cranberry Candy						41
+		Dish O' The Sea						11
+		Field Snack							3
+		Fish Stew							2
+		Fried Calamari						4
+		Fried Eel							3
+		Fried Mushroom						2
+		Life Elixir							29
+		Lucky Lunch							10
+		Magic Rock Candy					2
+		Maki Roll							3
+		Maple Bar							39
+		Miner's Treat						34
+		Omelet								1
+		Parsnip Soup						1
+		Pepper Poppers						9
+		Pink Cake							1
+		Plum Pudding						17
+		Pumpkin Soup						2
+		Red Plate							1
+		Rice Pudding						1
+		Roasted Hazelnuts					5
+		Shrimp Cocktail						3
+		Stir Fry							1
+		Strange Bun							20
+		Stuffing							6
+		Tortilla							1
+	Crafting
+		Cherry Bomb							25
+		Iridium Sprinkler					11
+		Quality Sprinkler					22
+		Scarecrow							11
+	Decor
+		Brick Floor							264
+		Cobblestone Path					2
+		Gravel Path							38
+		Stepping Stone Path					5
+		Stone Walkway Floor					17
+		Wood Path							2
+	Fertilizer
+		Basic Fertilizer					40
+		Basic Retaining Soil				2
+		Deluxe Speed-Gro					286
+		Quality Fertilizer					280
+
+	Fish
+		Crab								1
+		Lobster								1
+		Midnight Carp						6
+		Mussel								8
+		Periwinkle							14
+		Snail								3
+	Fishing Tackle
+		Curiosity Lure						2
+		Dressed Spinner						3
+		Sonar Bobber						1
+	Flower
+		Sunflower
+			Regular							16
+			Silver							18
+			Gold							8
+		Sweet Pea
+			Iridium							3
+		Tulip
+			Regular							1
+	Forage
+		Cave Carrot							237
+		Chanterelle
+			Regular							30
+			Silver							1
+			Iridium							9
+		Common Mushroom
+			Regular							173
+			Silver							14
+			Gold							6
+			Iridium							17
+		Daffodil
+			Iridium							50
+		Dandelion
+			Iridium							53
+		Ginger								292
+		Hazelnut
+			Iridium							37
+		Leek
+			Iridium							48
+		Magma Cap
+			Regular							2
+			Iridium							64
+		Morel
+			Regular							23
+			Iridium							10
+		Purple Mushroom
+			Regular							27
+			Silver							4
+			Gold							4
+			Iridium							31
+		Red Mushroom
+			Regular							178
+			Silver							20
+			Gold							16
+			Iridium							6
+		Sap									999
+		Snow Yam
+			Regular							41
+			Iridium							2
+		Spring Onion
+			Iridium							93
+		Wild Horseradish
+			Iridium							73
+		Winter Roor
+			Regular							115
+			Iridium							3
+	Fruit
+		Apple
+			Silver Quality					36
+		Apricot
+			Regular							51
+			Silver							30
+		Banana
+			Regular							30
+		Blackberry
+			Regular							85
+			Silver							8
+			Gold							8
+			Iridium							53
+		Cactus Fruit
+			Iridium							35
+		Coconut
+			Regular							203
+			Iridium							107
+		Cranberries
+			Regular							4402
+			Silver							1604
+			Gold							1117
+		Crystal Fruit
+			Regular							16
+			Silver							1
+			Gold							5
+			Iridium							55
+		Grape
+			Iridium							42
+		Hot Pepper
+			Regular							32
+			Silver							20
+			Gold							19
+		Mango
+			Regular							34
+		Melon
+			Regular							13
+			Silver							9
+			Gold							1
+		Orange
+			Regular							63
+		Peach
+			Regular							43
+			Silver							36
+		Pineapple
+			Gold							16
+		Pomegranate
+			Regular							30
+		Powdermelon
+			Regular							70
+			Silver							37
+			Gold							10
+		Salmonberry
+			Iridium							6
+		Spice Berry
+			Regular							8
+			Silver							4
+			Gold							4
+			Iridium							54
+		Starfruit
+			Regular							43
+			Silver							352
+			Gold							449
+		Strawberry
+			Gold							21
+		Wild Plum
+			Iridium							1
+	Monster Loot
+		Bat Wing							312
+		Bug Meat							520
+		Slime								1802
+		Solar Essence						999
+		Void Essence						1278
+	Resource
+		Copper Bar							122
+		Gold Bar							325
+		Iridium Bar							62
+		Iron Bar							76
+		Radioactive Bar						1
+		Bone Fragment						73
+		Cinder Shard						254
+		Coal								1824
+		Copper Ore							496
+		Gold Ore							2044
+		Iridium Ore							553
+		Iron Ore							469
+		Radioactive Ore						108
+		Refined Quartz						54
+		Battery Pack						72
+		Clay								867
+		Fiber								7653
+		Hardwood							843
+		Moss								1145
+		Stone								7886
+		Wood								1078
+	Seed
+		Acorn								100
+		Bean Starter						20
+		Broccoli Seeds						34
+		Cauliflower Seeds					20
+		Coffee Bean
+			Regular							5609
+			Silver							1228
+			Gold							796
+		Corn Seeds							56
+		Cranberry Seeds						26
+		Eggplant Seeds						8
+		Grape Starter						2
+		Mahogany Seed						14
+		Maple Seed							35
+		Mixed Flower Seeds					151
+		Mixed Seeds							298
+		Mossy Seed							8
+		Pine Cone							559
+		Pineapple Seeds						40
+		Powdermelon Seeds					82
+		Pumpkin Seeds						168
+		Radish Seeds						1
+		Rice Shoot							15
+		Starfruit Seeds						192
+		Strawberry Seeds					999
+		Summer Squash Seeds					107
+		Sunflower Seeds						14
+		Wheat Seeds							41
+	Vegetable
+		Amaranth
+			Silver							3
+			Gold							2
+		Broccoli
+			Silver							6
+			Gold							6
+		Carrot
+			Regular							88
+			Silver							87
+			Gold							60
+		Cauliflower
+			Regular							10
+			Silver							3
+			Gold							7
+		Corn
+			Regular							29
+			Silver							49
+			Gold							29
+		Fiddlehead Fern
+			Regular							66
+			Iridium							23
+		Garlic
+			Regular							36
+			Silver							33
+			Gold							28
+		Radish
+			Silver							13
+			Gold							3
+		Red Cabbage
+			Regular							12
+			Silver							15
+			Gold							9
+		Summer Squash
+			Gold							34
+		Taro Root
+			Regular							103
+			Silver							105
+			Gold							65
+		Tea Leaves
+			Regular							1
+		Tomato
+			Regular							13
+			Silver							6
+			Gold							6
+		Unmilled Rice
+			Regular							1198
+			Silver							386
+			Gold							223
+		Yam
+			Regular							1
+			Silver							11
+			Gold							3
+	Uncategorized
+		Auto-Petter							2
+		Bee House							7
+		Big Chest							1
+		Chest								12
+		Cookout Kit							2
+		Crystalarium						1
+		Dragon Tooth						9
+		Energy Tonic						17
+		Enricher							1
+		Fairy Dust							32
+		Geode Crusher						1
+		Golden Animal Cracker				10
+		Golden Pumpkin						13
+		Green Algae							98
+		Hay									228
+		Lightning Rod						44
+		Monster Musk						1
+		Oil									37
+		Pearl								6
+		Pressure Nozzle						9
+		Purple Slime Egg					1
+		Rice								647
+		Seaweed								104
+		Squid Ink							27
+		Tapper								10
+		Tent Kit							4
+		Treasure Chest						6
+		Truffle
+			Iridium							125
+		Warp Totem: Beach					6
+		Warp Totem: Desert					7
+		Warp Totem: Farm					19
+		Warp Totem: Island					1
+		Warp Totem: Mountains				7
+		Wheat Flour							910
+		White Algae							67
+		Wood Chipper						1
+	Trash
+		Broken CD							39
+		Broken Glasses						29
+		Driftwood							12
+		Joja Cola							42
+		Soggy Newspaper						25
+		Trash								14
