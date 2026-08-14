@@ -522,18 +522,18 @@ Requirements
 				Location					Crab Pot (Saltwater)
 				Strategy
 					Profession				Mariner
-					Bait					Challenge Bait > Wild Bait > Bait
+					Bait					Wild Bait > Bait
 			Mussel
 				Season						All
 				Location					Crab Pot (Saltwater)
 				Strategy
 					Profession				Mariner
-					Bait					Challenge Bait > Wild Bait > Bait
+					Bait					Wild Bait > Bait
 		Strategy
 			Change fishing profession to Trapper + Mariner
 			Craft Crab Pots
 			Analyze if crafting and placing Worm Bins on Crab Pot Farms is viable
-			Place 2/5 on freshwater, 3/5 on saltwater
+			Place 3/10 on freshwater, 7/10 on saltwater
 			Prioritize catch to cook food that buff fishing
 			If Statue Of Blessings grants Blessing Of Waters
 				Go fishing (prioritize fish with higher difficulty)
