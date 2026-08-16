@@ -1244,7 +1244,6 @@ Storage
 		Basic Retaining Soil				2
 		Deluxe Speed-Gro					286
 		Quality Fertilizer					280
-
 	Fish
 		Crab								1
 		Lobster								1
@@ -1534,3 +1533,35 @@ Storage
 		Joja Cola							42
 		Soggy Newspaper						25
 		Trash								14
+
+Machines
+	Keg
+		Main Farm							1
+			Status							Idle
+		Quarry								403
+			Status							I think they are producing Starfruit Wine. Can't remember.
+		Ginger Island						374
+			Status							Idle
+	Lightning Rod
+		Main Farm							122
+	Heavy Furnace
+		Main Farm							5
+			Status							Idle
+	Dehydrator
+		Main Farm							1
+			Status							Idle
+	Oil Maker
+		Main Farm							1
+			Status							Idle
+	Fish Smoker
+		Main Farm							1
+			Status							Idle
+	Mayonnaise Machine
+		Main Farm							1
+			Status							Idle
+	Preserves Jar
+		Main Farm							1
+			Status							Idle
+	Cask
+		Main Farm							189
+		Status								Starfruit Wine (regular)
