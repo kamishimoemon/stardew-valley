@@ -1580,3 +1580,15 @@ Forests
 		Location							Railroad
 		Tapped with							Untapped
 		Status								Idle
+
+Soil
+	Main Farm								~1584
+		Tilled								Yes
+		Sprinklers							Yes
+		Fertilizer							Deluxe Speed-Gro
+		Growing								Starfruit
+			Stage							Unknown
+	Ginger Island Farm						~696
+		Tilled								No
+		Fertilizer							None
+		Growing								Nothing
