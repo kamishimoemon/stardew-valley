@@ -1565,3 +1565,17 @@ Machines
 	Cask
 		Main Farm							189
 		Status								Starfruit Wine (regular)
+
+Forests
+	Oak Tree								45
+		Location							Railroad
+		Tapped with							Tapper
+		Status								Ready to harvest
+	Mapple Tree								7
+		Location							Railroad
+		Tapped with							Tapper
+		Status								Ready to harvest
+	Mystic Tree								18
+		Location							Railroad
+		Tapped with							Untapped
+		Status								Idle
