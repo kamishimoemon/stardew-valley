@@ -1,0 +1,65 @@
+Objective
+	Goals: G1, G2, G3, ..., Gn
+	Minimize MAX(T(G1), T(G2), T(G3), ..., T(Gn))
+	Do not optimize the completion time of a goal in isolation
+	Prioritize actions that reduce the projected completion time of all goals
+
+Critical Path
+	Estimate which goals currently determine or threaten the projected completion time
+	Prioritize goals on the critical path
+	Prioritize goals near the critical path over goals with large slack
+	Do not prioritize a local deadline unless missing it can increase the projected completion time
+	Re-evaluate the critical path when the state changes significantly
+
+Eligibility
+	An action is eligible only if
+		It is still pending
+		Its dependencies are satisfied
+		Its temporal and environmental conditions are satisfied
+		Its required resources are available
+		Using its resources does not interfere with a higher-priority action
+	If an unexpected state or unhandled condition is observed
+		Stop execution
+		Return to Planner
+
+Daily Execution
+	At start of day
+		Evaluate all eligible actions
+
+	☣️ Critical Execution
+		Execute all eligible ☣️ actions before accepting the timeline
+		If an action causes the day to restart
+			Restart ☣️ Critical Execution
+		Continue until all eligible ☣️ actions are resolved
+		Accept timeline
+
+	Production Maintenance
+		Maintain infrastructure that contributes to the current critical path
+		Prevent productive bottleneck infrastructure from remaining idle
+		Do not prioritize maintenance of infrastructure with sufficient slack over critical-path production
+
+	Production Expansion
+		Identify the current production bottleneck
+		Expand the bottleneck
+		Do not expand non-bottleneck infrastructure unless needed for an upcoming bottleneck
+		Re-evaluate the bottleneck after significant expansion
+
+	Goal Progression
+		Progress eligible goals according to their threat to the projected completion time
+		Prioritize critical-path goals
+		Then prioritize near-critical goals
+		Defer goals with sufficient slack
+
+	Free Time
+		If no eligible action can reduce the projected completion time
+			Do whatever
+
+Day Utilization
+	If an eligible productive action can still reduce the projected completion time
+		Do not sleep early
+		Continue working until 2:00am
+		Do not return to Farmhouse only to avoid passing out
+		Passing out at 2:00am is acceptable when the remaining cost is negligible compared with the value of the extra productive time
+		Do not intentionally allow Health to reach 0
+	Else
+		Sleeping early is allowed
