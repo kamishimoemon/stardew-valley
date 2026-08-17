@@ -47,8 +47,8 @@ Anytime
 		Goal: All house and community upgrades
 		Source: Carpenter's Shop
 		Cost: 300,000g
-	Iridium Tortoise
-		Goal: Iridium Tortoise
+	Iridium Turtle
+		Goal: Iridium Turtle
 		Source: Marnie's Ranch
 		Price: 500,000g
 
@@ -59,13 +59,13 @@ Weekly (any day of the week)
 		Location: Ginger Island Dig Site
 	Collect Oak Resin (Tapper)
 		Location: Oak Forest
-	Collect Misty Syrup (Tapper)
+	Collect Mistic Syrup (Tapper)
 		Location: Mystic Forest
 
 Every 3 days (any day of the week)
 	Collect Oak Resin (Heavy Tapper)
 		Location: Oak Forest
-	Collect Misty Syrup (Heavy Tapper)
+	Collect Mistic Syrup (Heavy Tapper)
 		Location: Mystic Forest
 
 Unknown

@@ -5,7 +5,7 @@ Main Info
 	Favorite Thing							Joja
 	Gold									893,062g
 	Total Earnings							9,418,751g
-	Community Center/JoJa run				Joja
+	Community Center/Joja run				Joja
 	Joja upgrades completed					Yes
 	Qi Gems									13
 	House									Level 4
@@ -21,7 +21,7 @@ Clothing
 	Shoes									Crystal Shoes
 	Ring (Slot 1)							Combined Ring (Burglar's Ring + Iridium Band)
 	Ring (Slot 2)							Combined Ring (Napalm Ring + Iridium Band)
-	Tinket									Ice Rod (3.3s, 4s)
+	Trinket									Ice Rod (3.3s, 4s)
 
 Inventory
 	Iridium Axe
@@ -37,7 +37,7 @@ Inventory
 		Bait								Deluxe Bait
 			Quantity						195
 		Tackle (Slot 1)						None
-		Tackle (Slot 1)						None
+		Tackle (Slot 2)						None
 		Enchantment							Master
 		Permanent							No
 	Iridium Pan
@@ -545,7 +545,7 @@ Items Shipped
 		Shipped								No
 	Radioactive Bar
 		Shipped								No
-	Smoke Fish
+	Smoked Fish
 		Shipped								Yes
 	Moss
 		Shipped								No
@@ -1168,7 +1168,7 @@ Storage
 		Void Egg							1
 	Artisan Goods
 		Cloth								216
-		Crytal Fruit Jelly					1
+		Crystal Fruit Jelly					1
 		Dried Common Mushrooms				41
 		Dried Magma Caps					1
 		Blue Jazz Honey						6
@@ -1308,7 +1308,7 @@ Storage
 			Iridium							93
 		Wild Horseradish
 			Iridium							73
-		Winter Roor
+		Winter Root
 			Regular							115
 			Iridium							3
 	Fruit
