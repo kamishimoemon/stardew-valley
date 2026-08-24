@@ -8,12 +8,13 @@ Infinity Weapons
 		Enchantment: Artful
 
 Tools
-	Axe
+	Axe								🗹
 		Enchantment: Swift
 		Priority: 1
-	Hoe
+	Hoe								🗹
 		Enchantment: Reaching | Generous
 		Priority: 2
+			Got: Generous
 	Fishing Rod
 		Enchantment: Auto-Hook
 		Priority: 3
