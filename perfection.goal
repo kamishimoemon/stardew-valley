@@ -98,7 +98,7 @@ Requirements
 	Golden Clock							☐
 		Waivers								1/10
 	Monster Slayer Hero						🗹
-	Great Friends							29%
+	Great Friends							76%
 		Relative Priorities
 			Fish Caught						🔼
 		Waivers								No
@@ -106,78 +106,30 @@ Requirements
 			Vincent
 				Loved Gifts					Grape, Snail, Pink Cake, Ginger Ale
 				Birthday					Spring 10
-			Shane
-				Loved Gifts					Hot Pepper, Beer, Pizza
-				Birthday					Spring 20
 			Pierre
 				Loved Gifts					Fried Calamari, Price Catalogue
 				Birthday					Spring 26
-			Emily
-				Loved Gifts					Amethyst, Aquamarine, Cloth
-				Birthday					Spring 27
-			Jas
-				Loved Gifts					Plum Pudding, Pink Cake
-				Birthday					Summer 4
-			Gus
-				Loved Gifts					Orange, Escargot, Diamond
-				Birthday					Summer 8
 			Alex
 				Loved Gifts					"Jack Be Nimble, Jack Be Thick", Salmon Dinner, Complete Breakfast
 				Birthday					Summer 13
 			Sam
 				Loved Gifts					Cactus Fruit, Maple Bar, Pizza
 				Birthday					Summer 17
-			Demetrius
-				Loved Gifts					Strawberry, Ice Cream, Rice Pudding
-				Birthday					Summer 19
-			Dwarf
-				Loved Gifts					Topaz, Omni Geode
-				Birthday					Summer 22
 			Leo
 				Loved Gifts					Mango, Poi, Duck Feather
 				Birthday					Summer 26
-			Jodi
-				Loved Gifts					Chocolate Cake, Pancake
-				Birthday					Fall 11
 			Abigail
 				Loved Gifts					Amethyst, Spicy Eel
 				Birthday					Fall 13
-			Sandy
-				Loved Gifts					Crocus, Daffodil, Sweet Pea
-				Birthday					Fall 15
-			Marnie
-				Loved Gifts					Diamond, Pink Cake, Pumpkin Pie
-				Birthday					Fall 18
-			Robin
-				Loved Gifts					Peach, Spaghetti, Woody's Secret
-				Birthday					Fall 21
 			George
 				Loved Gifts					Leek, Fried Mushroom
 				Birthday					Fall 24
-			Krobus
-				Loved Gifts					Wild Horseradish
-				Birthday					Winter 1
-			Caroline
-				Loved Gifts					Green Tea, Tropical Curry, Rabbit's Foot, Golden Pumpkin
-				Birthday					Winter 7
-			Sebastian
-				Loved Gifts					Sashimi, Frozen Tear, Pumpkin Soup
-				Birthday					Winter 10
-			Harvey
-				Loved Gifts					Coffee, Pickles, Wine, Truffle Oil
-				Birthday					Winter 14
 			Wizard
 				Loved Gifts					Solar Essence, Void Essence
 				Birthday					Winter 17
 			Evelyn
 				Loved Gifts					Stuffing, Raisins
 				Birthday					Winter 20
-			Leah
-				Loved Gifts					Truffle, Wine, Salad
-				Birthday					Winter 23
-			Willy
-				Loved Gifts					Sturgeon, Pumpkin, Sea Cucumber, Mead
-				Birthday					Summer 24
 		Steps
 			If today is someone's birthday whose relationship is not maximized
 				Empty inventory
@@ -194,79 +146,9 @@ Requirements
 			Master Angler Achievement
 				Dependencies
 					Fish Caught
-	Cooking									14%
+	Cooking									20%
 		Waivers								No (I think)
-		Remaining
-			Fried Egg
-			Omelet
-			Salad
-			Cheese Cauliflower
-			Baked Fish
-			Parsnip Soup
-			Vegetable Medley
-			Complete Breakfast
-			Strange Bun
-			Lucky Lunch
-			Fried Mushroom
-			Pizza
-			Bean Hotpot
-			Carp Surprise
-			Hashbrowns
-			Salmon Dinner
-			Fish Taco
-			Crispy Bass
-			Pepper Poppers
-			Bread
-			Tom Kha Soup
-			Trout Soup
-			Chocolate Cake
-			Pink Cake
-			Rhubarb Pie
-			Cookie
-			Spaghetti
-			Fried Eel
-			Spicy Eel
-			Maki Roll
-			Tortilla
-			Red Plate
-			Eggplant Parmesan
-			Rice Pudding
-			Ice Cream
-			Blueberry Tart
-			Autumn's Bounty
-			Pumpkin Soup
-			Super Meal
-			Cranberry Sauce
-			Farmer's Lunch
-			Survival Burger
-			Dish O' The Sea
-			Miner's Treat
-			Roots Platter
-			Seafoam Pudding
-			Algae Soup
-			Pale Broth
-			Artichoke Dip
-			Stir Fry
-			Pumpkin Pie
-			Radish Salad
-			Fruit Salad
-			Blackberry Cobbler
-			Bruschetta
-			Coleslaw
-			Fiddlehead Risotto
-			Poppyseed Muffin
-			Chowder
-			Fish Stew
-			Lobster Bisque
-			Crab Cakes
-			Shrimp Cocktail
-			Ginger Ale
-			Banana Pudding
-			Mango Sticky Rice
-			Poi
-			Tropical Curry
-			Squid Ink Ravioli
-	Crafting								43%
+	Crafting								50%
 		Waivers								Probably
 		Remaining
 			Bomb
@@ -327,9 +209,6 @@ Requirements
 			Iron Lamp-Post
 			Jack-O-Lantern
 			Charcoal Kiln
-			Crystalarium					⏳
-			Solar Panel						⏳
-			Recycling Machine				🍰
 			Slime Incubator
 			Ostrich Incubator
 			Slime Egg-Press
@@ -353,7 +232,7 @@ Requirements
 			Mini-Jukebox
 			Hopper
 			Tent Kit
-	Fish Caught								76%
+	Fish Caught								94%
 		Relative Priorities
 			Great Friends					🔽
 		Waivers								No
@@ -380,56 +259,12 @@ Requirements
 					Tackle					Trap Bobber x2
 					Food					Seafoam Pudding > Lobster Bisque > Fish Stew > Dish O' The Sea
 					Enchantment				Master
-			Crimsonfish
-				Season						Summer
-				Location					Ocean
-				Weather						Any
-				Time						Any
-				Difficulty					95
-				Strategy
-					Bait					Deluxe Bait
-					Tackle					Trap Bobber x2
-					Food					Seafoam Pudding > Lobster Bisque > Fish Stew > Dish O' The Sea
-					Enchantment				Master
-			Lava Eel
-				Season						All
-				Location					The Mines (100), Volcano Caldera
-				Weather						Any
-				Time						Any
-				Difficulty					90
-				Strategy
-					Bait					Deluxe Bait
-					Tackle					Trap Bobber x2
-					Food					Seafoam Pudding > Lobster Bisque > Fish Stew > Dish O' The Sea
-					Enchantment				Master
-			Ice Pip
-				Season						All
-				Location					The Mines (60)
-				Weather						Any
-				Time						Any
-				Difficulty					85
-				Strategy
-					Bait					Deluxe Bait
-					Tackle					Curiosity Lure + Trap Bobber
-					Food					Lobster Bisque > Fish Stew > Dish O' The Sea
-					Enchantment				Master
 			Blobfish
 				Season						Winter
 				Location					Submarine (Night Market)
 				Weather						Any
 				Time						Anytime during Night Market (5pm - 2am)
 				Difficulty					75
-				Strategy
-					Bait					Deluxe Bait
-					Tackle					Curiosity Lure + Trap Bobber
-					Food					Lobster Bisque > Fish Stew > Dish O' The Sea
-					Enchantment				Master
-			Stonefish
-				Season						All
-				Location					The Mines (20)
-				Weather						Any
-				Time						Any
-				Difficulty					65
 				Strategy
 					Bait					Deluxe Bait
 					Tackle					Curiosity Lure + Trap Bobber
@@ -446,89 +281,6 @@ Requirements
 					Tackle					Dressed Spinner + Trap Bobber
 					Food					Lobster Bisque > Fish Stew > Dish O' The Sea
 					Enchantment				Master
-			Slimejack
-				Season						All
-				Location					Mutant Bug Lair
-				Weather						Any
-				Time						Any
-				Difficulty					55
-				Strategy
-					Bait					Deluxe Bait
-					Tackle					Dressed Spinner x2
-					Food					Lobster Bisque > Fish Stew > Dish O' The Sea
-					Enchantment				Master
-			Goby
-				Season						All
-				Location					Cindersap Forest Waterfalls
-				Weather						Any
-				Time						Any
-				Difficulty					55
-				Strategy
-					Bait					Deluxe Bait
-					Tackle					Curiosity Lure + Dressed Spinner
-					Food					Lobster Bisque > Fish Stew > Dish O' The Sea
-					Enchantment				Master
-			Salmon
-				Season						Fall
-				Location					River
-				Weather						Any
-				Time						6am - 7pm (any in waterfalls)
-				Difficulty					50
-				Strategy
-					Bait					Deluxe Bait
-					Tackle					Dressed Spinner x2
-					Food					Lobster Bisque > Fish Stew > Dish O' The Sea
-					Enchantment				Master
-			Woodskip
-				Season						All
-				Location					Secret Woods
-				Weather						Any
-				Time						Any
-				Difficulty					50
-				Strategy
-					Bait					Deluxe Bait
-					Tackle					Dressed Spinner x2
-					Food					Lobster Bisque > Fish Stew > Dish O' The Sea
-					Enchantment				Master
-			Ghostfish
-				Season						All
-				Location					The Mines (20, 60)
-				Weather						Any
-				Time						Any
-				Difficulty					50
-				Strategy
-					Bait					Deluxe Bait
-					Tackle					Dressed Spinner x2
-					Food					Lobster Bisque > Fish Stew > Dish O' The Sea
-					Enchantment				Master
-			Walleye
-				Season						Fall, Winter (with Rain Totem)
-				Location					River, Mountain Lake, Forest Pond
-				Weather						Rain
-				Time						12pm - 2am
-				Difficulty					45
-				Strategy
-					Bait					Deluxe Bait
-					Tackle					Dressed Spinner x2
-					Food					Lobster Bisque > Fish Stew > Dish O' The Sea
-					Enchantment				Master
-			Cave Jelly
-				Season						All
-				Location					The Mines (20, 60, 100)
-				Strategy
-					Tackle					Dressed Spinner x2
-			Crab
-				Season						All
-				Location					Crab Pot (Saltwater)
-				Strategy
-					Profession				Mariner
-					Bait					Wild Bait > Bait
-			Mussel
-				Season						All
-				Location					Crab Pot (Saltwater)
-				Strategy
-					Profession				Mariner
-					Bait					Wild Bait > Bait
 		Strategy
 			Change fishing profession to Trapper + Mariner
 			Craft Crab Pots
@@ -539,4 +291,4 @@ Requirements
 				☣️ Go fishing (prioritize fish available with higher difficulty)
 	Golden Walnuts							🗹
 
-Total Complete								46% (+1 waiver)
+Total Complete								54% (+1 waiver)
