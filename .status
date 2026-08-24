@@ -3,16 +3,16 @@ Main Info
 	Farm Name								Thrive
 	Farm Type								Wilderness Farm
 	Favorite Thing							Joja
-	Gold									893,062g
-	Total Earnings							9,418,751g
+	Gold									1,981,350g
+	Total Earnings							11,574,610g
 	Community Center/Joja run				Joja
 	Joja upgrades completed					Yes
 	Qi Gems									13
 	House									Level 4
 	Maximum floor reached					112
 	Stardrops								5
-	Date									Day 15 of Summer, Year 4
-	Weather									Green Rain
+	Date									Day 21 of Fall, Year 4
+	Weather									Windy
 
 Clothing
 	Hat										Infinity Crown
@@ -25,32 +25,16 @@ Clothing
 
 Inventory
 	Iridium Axe
-		Enchantment							Efficient
-		Permanent							No
-	Iridium Hoe
-		Enchantment							None
+		Enchantment							Swift
 		Permanent							No
 	Iridium Scythe
 		Enchantment							N/A
 		Permanent							No
-	Advanced Iridium Rod
-		Bait								Deluxe Bait
-			Quantity						195
-		Tackle (Slot 1)						None
-		Tackle (Slot 2)						None
-		Enchantment							Master
+	Iridium Hoe
+		Enchantment							Generous
 		Permanent							No
 	Iridium Pan
 		Enchantment							None
-		Permanent							No
-	Starfruit (regular)
-		Quantity							43
-		Permanent							No
-	Starfruit (silver)
-		Quantity							352
-		Permanent							No
-	Starfruit (gold)
-		Quantity							449
 		Permanent							No
 	Iridium Pickaxe
 		Enchantment							Swift
@@ -60,17 +44,23 @@ Inventory
 		Enchantment							Crusader
 		Permanent							Yes
 	Spicy Eel
-		Quantity							22
+		Quantity							65
 		Permanent							Yes
 	Bomb
-		Quantity							70
+		Quantity							78
 		Permanent							Yes
 	Triple Shot Espresso
-		Quantity							17
+		Quantity							15
 		Permanent							Yes
 	Staircase
-		Quantity							16
+		Quantity							80
 		Permanent							Yes
+	Solar Panel
+		Quantity							8
+		Permanent							No
+	Coal
+		Quantity							822
+		Permanent							No
 	Iridium Watering Can
 		Enchantment							Bottomless
 		Permanent							No
@@ -79,10 +69,10 @@ Inventory
 		Enchantment							Artful
 		Permanent							No
 	Starfruit Jelly
-		Quantity							162
+		Quantity							173
 		Permanent							Yes
 	Mega Bomb
-		Quantity							52
+		Quantity							56
 		Permanent							Yes
 
 Skills
@@ -104,68 +94,68 @@ Skills
 
 Social
 	Abigail
-		Hearts								3/8
+		Hearts								9/10
 		Gifts								0
-		Status								Single
+		Status								Girlfriend
 	Alex
-		Hearts								5/8
+		Hearts								7/8
 		Gifts								0
 		Status								Single
 	Caroline
-		Hearts								7/10
+		Hearts								10/10
 		Gifts								0
 	Clint
 		Hearts								10/10
 		Gifts								0
 	Demetrius
-		Hearts								9/10
+		Hearts								10/10
 		Gifts								0
 	Dwarf
-		Hearts								6/10
+		Hearts								10/10
 		Gifts								0
 	Elliott
 		Hearts								8/8
 		Gifts								0
 		Status								Single
 	Emily
-		Hearts								8/10
+		Hearts								10/10
 		Gifts								0
 		Status								Girlfriend
 	Evelyn
-		Hearts								4/10
+		Hearts								6/10
 		Gifts								0
 	George
-		Hearts								4/10
+		Hearts								7/10
 		Gifts								0
 	Gus
-		Hearts								9/10
+		Hearts								10/10
 		Gifts								0
 	Haley
 		Hearts								10/10
 		Gifts								0
 		Status								Girlfriend
 	Harvey
-		Hearts								6/8
+		Hearts								8/8
 		Gifts								0
 		Status								Single
 	Jas
-		Hearts								7/10
+		Hearts								10/10
 		Gifts								0
 	Jodi
-		Hearts								7/10
+		Hearts								10/10
 		Gifts								0
 	Kent
 		Hearts								10/10
 		Gifts								0
 	Krobus
-		Hearts								7/10
+		Hearts								10/10
 		Gifts								0
 	Leah
-		Hearts								7/8
+		Hearts								10/10
 		Gifts								0
-		Status								Single
+		Status								Girlfriend
 	Leo
-		Hearts								2/10
+		Hearts								8/10
 		Gifts								0
 	Lewis
 		Hearts								10/10
@@ -174,7 +164,7 @@ Social
 		Hearts								10/10
 		Gifts								0
 	Marnie
-		Hearts								9/10
+		Hearts								10/10
 		Gifts								0
 	Maru
 		Hearts								10/10
@@ -188,34 +178,34 @@ Social
 		Gifts								0
 		Status								Girlfriend
 	Pierre
-		Hearts								5/10
+		Hearts								8/10
 		Gifts								0
 	Robin
-		Hearts								7/10
+		Hearts								10/10
 		Gifts								0
 	Sam
-		Hearts								1/10
+		Hearts								7/8
 		Gifts								0
 		Status								Single
 	Sandy
-		Hearts								6/10
+		Hearts								10/10
 		Gifts								0
 	Sebastian
-		Hearts								6/8
+		Hearts								8/8
 		Gifts								0
 		Status								Single
 	Shane
-		Hearts								6/8
+		Hearts								8/8
 		Gifts								0
 		Status								Single
 	Vincent
-		Hearts								4/10
+		Hearts								7/10
 		Gifts								0
 	Willy
-		Hearts								8/10
+		Hearts								10/10
 		Gifts								0
 	Wizard
-		Hearts								5/10
+		Hearts								7/10
 		Gifts								0
 
 Special Items & Powers
@@ -584,9 +574,9 @@ Fish
 	Rainbow Trout
 		Caught								Yes
 	Salmon
-		Caught								No
+		Caught								Yes
 	Walleye
-		Caught								No
+		Caught								Yes
 	Perch
 		Caught								Yes
 	Carp
@@ -618,19 +608,19 @@ Fish
 	Super Cucumber
 		Caught								Yes
 	Ghostfish
-		Caught								No
+		Caught								Yes
 	White Algae
 		Caught								Yes
 	Stonefish
-		Caught								No
+		Caught								Yes
 	Crimsonfish
-		Caught								No
+		Caught								Yes
 	Angler
 		Caught								Yes
 	Ice Pip
-		Caught								No
+		Caught								Yes
 	Lava Eel
-		Caught								No
+		Caught								Yes
 	Legend
 		Caught								No
 	Sandfish
@@ -670,11 +660,11 @@ Fish
 	Crayfish
 		Caught								Yes
 	Crab
-		Caught								No
+		Caught								Yes
 	Cockle
 		Caught								Yes
 	Mussel
-		Caught								No
+		Caught								Yes
 	Shrimp
 		Caught								Yes
 	Snail
@@ -684,13 +674,13 @@ Fish
 	Oyster
 		Caught								Yes
 	Woodskip
-		Caught								No
+		Caught								Yes
 	Glacierfish
 		Caught								No
 	Void Salmon
 		Caught								Yes
 	Slimejack
-		Caught								No
+		Caught								Yes
 	Midnight Squid
 		Caught								No
 	Spook Fish
@@ -706,11 +696,11 @@ Fish
 	River Jelly
 		Caught								Yes
 	Cave Jelly
-		Caught								No
+		Caught								Yes
 	Sea Jelly
 		Caught								Yes
 	Goby
-		Caught								No
+		Caught								Yes
 
 Cooking
 	Fried Egg
@@ -741,7 +731,7 @@ Cooking
 		Unlocked							Yes
 		Cooked								Yes
 	Strange Bun
-		Unlocked							No
+		Unlocked							Yes
 		Cooked								No
 	Lucky Lunch
 		Unlocked							Yes
@@ -772,7 +762,7 @@ Cooking
 		Cooked								No
 	Fish Taco
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Crispy Bass
 		Unlocked							Yes
 		Cooked								No
@@ -783,7 +773,7 @@ Cooking
 		Unlocked							Yes
 		Cooked								No
 	Tom Kha Soup
-		Unlocked							No
+		Unlocked							Yes
 		Cooked								No
 	Trout Soup
 		Unlocked							Yes
@@ -793,7 +783,7 @@ Cooking
 		Cooked								No
 	Pink Cake
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Rhubarb Pie
 		Unlocked							Yes
 		Cooked								No
@@ -802,7 +792,7 @@ Cooking
 		Cooked								No
 	Spaghetti
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Fried Eel
 		Unlocked							Yes
 		Cooked								No
@@ -817,7 +807,7 @@ Cooking
 		Cooked								No
 	Tortilla
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Red Plate
 		Unlocked							Yes
 		Cooked								No
@@ -925,7 +915,7 @@ Cooking
 		Cooked								Yes
 	Lobster Bisque
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Maple Bar
 		Unlocked							Yes
 		Cooked								Yes
@@ -942,7 +932,7 @@ Cooking
 		Unlocked							Yes
 		Cooked								No
 	Mango Sticky Rice
-		Unlocked							No
+		Unlocked							Yes
 		Cooked								No
 	Poi
 		Unlocked							Yes
@@ -971,8 +961,8 @@ Achievements
 		Unlocked							Yes
 		Completed							Yes
 	Legend
-		Unlocked							No
-		Completed							No
+		Unlocked							Yes
+		Completed							Yes
 	A Complete Collection
 		Unlocked							Yes
 		Completed							Yes
@@ -1065,7 +1055,7 @@ Achievements
 		Completed							Yes
 	Good Neighbors
 		Unlocked							Yes
-		Completed							No
+		Completed							Yes
 	Danger In The Deep
 		Unlocked							Yes
 		Completed							Yes
@@ -1093,47 +1083,47 @@ Monster Slayer Hero
 Farm Buildings
 	Mill
 	Silo
-		Hay									175/240
+		Hay									208/240
 	Deluxe Barn
 		Auto-Petter							Yes
 		Heater								Yes
 		Animals
 			Sollover
 				Type						Pig
-				Hearts						3
+				Hearts						5
 			Limabella
 				Type						Pig
-				Hearts						3
+				Hearts						5
 			Belley
 				Type						Pig
-				Hearts						3
+				Hearts						5
 			Sotcha
 				Type						Pig
-				Hearts						3
+				Hearts						5
 			Chepus
 				Type						Pig
-				Hearts						3
+				Hearts						5
 			Chupa
 				Type						Pig
-				Hearts						3
+				Hearts						5
 			Shubba
 				Type						Pig
-				Hearts						3
+				Hearts						5
 			Snasko
 				Type						Pig
-				Hearts						3
+				Hearts						5
 			Totie
 				Type						Pig
-				Hearts						3
+				Hearts						5
 			Pracku
 				Type						Pig
-				Hearts						3
+				Hearts						5
 			Tutchers
 				Type						Pig
-				Hearts						3
+				Hearts						5
 			Mullello
 				Type						Pig
-				Hearts						3
+				Hearts						5
 	Deluxe Coop
 		Auto-Petter							Yes
 		Auto-Grabber						Yes
@@ -1149,11 +1139,11 @@ Farm Buildings
 				Golden Animal Cracker		Yes
 			Ducky
 				Type						Duck
-				Hearts						2
+				Hearts						5
 				Golden Animal Cracker		No
 			Renona
 				Type						Rabbit
-				Hearts						2
+				Hearts						5
 				Golden Animal Cracker		No
 	🚧Greenhouse🚧
 	Obelisks
@@ -1539,28 +1529,17 @@ Machines
 		Main Farm							1
 			Status							Idle
 		Quarry								403
-			Status							Unknown
-			Probably						Starfruit Wine
+			Status							Ready to harvest
+			Product						Starfruit Wine
 		Ginger Island						374
 			Status							Idle
 	Lightning Rod
 		Main Farm							122
 	Heavy Furnace
 		Main Farm							5
-			Status							Idle
+			Status							Ready to harvest
+			Product							Refined Quartz
 	Dehydrator
-		Main Farm							1
-			Status							Idle
-	Oil Maker
-		Main Farm							1
-			Status							Idle
-	Fish Smoker
-		Main Farm							1
-			Status							Idle
-	Mayonnaise Machine
-		Main Farm							1
-			Status							Idle
-	Preserves Jar
 		Main Farm							1
 			Status							Idle
 	Cask
@@ -1571,24 +1550,25 @@ Forests
 	Oak Tree								45
 		Location							Railroad
 		Tapped with							Tapper
-		Status								Ready to harvest
+		Status								Waiting for product
 	Maple Tree								7
 		Location							Railroad
 		Tapped with							Tapper
 		Status								Ready to harvest
-	Mystic Tree								18
+	Mystic Tree								29
 		Location							Railroad
-		Tapped with							Untapped
-		Status								Idle
+		Tapped with							Heavy Tapper (but only 23 of them)
+		Status								Waiting for product
 
 Soil
-	Main Farm								~1584
+	Main Farm								1795
 		Tilled								Yes
 		Sprinklers							Yes
 		Fertilizer							Deluxe Speed-Gro
-		Growing								Starfruit
-			Stage							Unknown
+		Growing								Wheat
+			Stage							Ready to harvest
 	Ginger Island Farm						~696
-		Tilled								No
-		Fertilizer							None
-		Growing								Nothing
+		Tilled								Yes
+		Fertilizer							Deluxe Speed-Gro
+		Growing								Ancient Fruit
+			Stage							Varies (some are already giving fruit)
