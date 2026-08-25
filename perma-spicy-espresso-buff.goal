@@ -7,7 +7,7 @@ Daily Consumption
 	3 Spicy Eel
 
 Crystalarium Farm
-	Location: Calico Desert
+	Location: Tunnel
 	Minimum Sustainable Capacity: 56 Crystalariums
 		35 Diamond
 		21 Ruby
@@ -18,7 +18,11 @@ Crystalarium Farm
 		Crystalariums				42
 			Status					Ready to harvest
 	⚠️ Unexpected Event
-		6 Crystalariums destroyed by Emily & Sandy
+		6 Crystalariums destroyed by Emily & Sandy at Calico Desert
+		Cause
+			NPC Pathing
+		Resolution
+			Relocate Crystalarium Farm to Tunnel
 
 Solar Farm
 	Location: Calico Desert
@@ -30,30 +34,21 @@ Solar Farm
 			Status					Ready to harvest
 
 Steps
-	Pre-first Sunday
-		Forge 50 Iridium Bars
-		Forge 26 Refined Quartz
-
-	First Sunday
-		Grab all Diamonds
-		Grab all Rubies
-		Grab all Jades
-		Craft 8 Solar Panels
-		Craft 56 Crystalariums
-		Go to Calico Desert
-		Place Solar Panels
-		Place Crystalariums
-		Feed 35 Crystalariums with Diamonds
-		Feed 21 Crystalariums with Rubies
-		Trade remaining Diamonds
-		Trade remaining Rubies
-		Trade all Jades
-
-	Every other Sunday
-		Grab all Jades
-		Go to Calico Desert through Desert Obelisk
+	Relocation
 		Collect all Diamonds
 		Collect all Rubies
+		Remove all surviving Crystalariums from Calico Desert
+		Go to Tunnel
+		Place all Crystalariums
+		Feed Crystalariums maintaining 5 Diamond : 3 Ruby ratio
+		Craft Crystalariums until Minimum Sustainable Capacity is reached
+
+	Every Sunday
+		Grab all Jades
+		Go to Tunnel
+		Collect all Diamonds
+		Collect all Rubies
+		Go to Calico Desert through Desert Obelisk
 		Collect all Battery Packs
 		Trade all Diamonds
 		Trade all Rubies
