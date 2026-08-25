@@ -336,7 +336,7 @@ Items Shipped
 	Ostrich Egg
 		Shipped								No
 	Salmonberry
-		Shipped								No
+		Shipped								Yes
 	Amaranth
 		Shipped								No
 	Pale Ale
@@ -1145,7 +1145,6 @@ Farm Buildings
 				Type						Rabbit
 				Hearts						5
 				Golden Animal Cracker		No
-	🚧Greenhouse🚧
 	Obelisks
 		Earth Obelisk						Yes
 		Water Obelisk						Yes
@@ -1567,6 +1566,12 @@ Soil
 		Fertilizer							Deluxe Speed-Gro
 		Growing								Wheat
 			Stage							Ready to harvest
+	Greenhouse								118
+		Tilled								Yes
+		Sprinklers							Yes
+		Fertilizer							Hyper Speed-Gro
+		Growing								Ancient Fruit
+			Stage							Mature and producing fruit at various rates
 	Ginger Island Farm						~696
 		Tilled								Yes
 		Fertilizer							Deluxe Speed-Gro
