@@ -15,7 +15,7 @@ Tools
 		Enchantment: Reaching | Generous
 		Priority: 2
 			Got: Generous
-	Fishing Rod						☐
+	Fishing Rod						🗹
 		Enchantment: Auto-Hook
 		Priority: 3
 		Dependencies
@@ -54,4 +54,4 @@ Steps
 							Restart day
 							Skip enchanting
 
-Goal Status							☐
+Goal Status							🗹
