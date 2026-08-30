@@ -735,7 +735,7 @@ Cooking
 		Cooked								No
 	Lucky Lunch
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Fried Mushroom
 		Unlocked							Yes
 		Cooked								No
@@ -759,7 +759,7 @@ Cooking
 		Cooked								Yes
 	Salmon Dinner
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Fish Taco
 		Unlocked							Yes
 		Cooked								Yes
@@ -1560,7 +1560,7 @@ Forests
 		Status								Waiting for product
 
 Soil
-	Main Farm								1795
+	Main Farm								1846
 		Tilled								Yes
 		Sprinklers							Yes
 		Fertilizer							Deluxe Speed-Gro
