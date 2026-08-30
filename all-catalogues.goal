@@ -2,13 +2,13 @@ Catalogues
 	Catalogue						🗹
 		Source: Pierre's General Store
 		Price: 30,000g
-	Furniture Catalogue				☐
+	Furniture Catalogue				🗹
 		Source: Carpenter's Shop
 		Price: 200,000g
 	Joja Furniture Catalogue		🗹
 		Source: JojaMart
 		Price: 25,000g
-	Wizard Catalogue				☐
+	Wizard Catalogue				🗹
 		Source: Krobus
 		Price: 150,000g
 	Junimo Catalogue				🗹
@@ -20,4 +20,4 @@ Catalogues
 	Trash Catalogue					🗹
 		Source: Garbage Cans
 
-Goal Status							☐
+Goal Status							🗹
