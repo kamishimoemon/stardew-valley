@@ -3,7 +3,7 @@ Chickens
 		Needs: Coop
 		Source: Marnie's Ranch chosen at random at purchase
 		Unlocked after: seeing Shane's 8-heart event
-	Void Chicken			☐
+	Void Chicken			🗹
 		Needs: Big Coop
 		Source: Hatched by placing a Void Egg into an Incubator
 		Void Egg: Sold by Krobus for 5,000g
@@ -13,7 +13,7 @@ Chickens
 		Golden Egg: Sold at Marnie's Ranch for 100,000g
 		Dependencies
 			Perfection
-Dinosaur					☐
+Dinosaur					🗹
 	Needs: Big Coop
 	Source: Hatched by placing a Dinosaur Egg into an Incubator
 
@@ -30,3 +30,5 @@ Strategy
 		Hatch Golden Chicken
 	🔀 Dinosaur
 		Hatch Dinosaur
+
+Goal Status					☐

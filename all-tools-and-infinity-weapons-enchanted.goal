@@ -1,8 +1,8 @@
 Infinity Weapons
 	Infinity Blade					🗹
 		Enchantment: Crusader
-	Infinity Dagger
-		Enchantment: Artful
+	Infinity Dagger					🗹
+		Enchantment: Bug Killer
 		Priority: 3
 	Infinity Gavel					🗹
 		Enchantment: Artful
@@ -15,13 +15,13 @@ Tools
 		Enchantment: Reaching | Generous
 		Priority: 2
 			Got: Generous
-	Fishing Rod
+	Fishing Rod						☐
 		Enchantment: Auto-Hook
 		Priority: 3
 		Dependencies
 			Fish Caught
 				Source				Perfection
-	Pan
+	Pan								🗹
 		Enchantment: Generous
 		Priority: 3
 	Pickaxe							🗹
@@ -53,3 +53,5 @@ Steps
 						If enchantment is not desired
 							Restart day
 							Skip enchanting
+
+Goal Status							☐

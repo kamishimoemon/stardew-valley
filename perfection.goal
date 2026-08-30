@@ -146,9 +146,9 @@ Requirements
 			Master Angler Achievement
 				Dependencies
 					Fish Caught
-	Cooking									20%
+	Cooking									39%
 		Waivers								No (I think)
-	Crafting								50%
+	Crafting								51%
 		Waivers								Probably
 		Remaining
 			Bomb
@@ -232,7 +232,7 @@ Requirements
 			Mini-Jukebox
 			Hopper
 			Tent Kit
-	Fish Caught								94%
+	Fish Caught								95%
 		Relative Priorities
 			Great Friends					🔽
 		Waivers								No
@@ -248,39 +248,6 @@ Requirements
 					Tackle					Trap Bobber x2
 					Food					Seafoam Pudding > Lobster Bisque > Fish Stew > Dish O' The Sea
 					Enchantment				Master
-			Glacierfish
-				Season						Winter
-				Location					Cindersap Forest
-				Weather						Any
-				Time						Any
-				Difficulty					100
-				Strategy
-					Bait					Deluxe Bait
-					Tackle					Trap Bobber x2
-					Food					Seafoam Pudding > Lobster Bisque > Fish Stew > Dish O' The Sea
-					Enchantment				Master
-			Blobfish
-				Season						Winter
-				Location					Submarine (Night Market)
-				Weather						Any
-				Time						Anytime during Night Market (5pm - 2am)
-				Difficulty					75
-				Strategy
-					Bait					Deluxe Bait
-					Tackle					Curiosity Lure + Trap Bobber
-					Food					Lobster Bisque > Fish Stew > Dish O' The Sea
-					Enchantment				Master
-			Midnight Squid
-				Season						Winter
-				Location					Submarine (Night Market)
-				Weather						Any
-				Time						Anytime during Night Market (5pm - 2am)
-				Difficulty					55
-				Strategy
-					Bait					Deluxe Bait
-					Tackle					Dressed Spinner + Trap Bobber
-					Food					Lobster Bisque > Fish Stew > Dish O' The Sea
-					Enchantment				Master
 		Strategy
 			Change fishing profession to Trapper + Mariner
 			Craft Crab Pots
@@ -291,4 +258,5 @@ Requirements
 				☣️ Go fishing (prioritize fish available with higher difficulty)
 	Golden Walnuts							🗹
 
-Total Complete								54% (+1 waiver)
+Total Complete								56% (+1 waiver)
+Goal Status									☐
