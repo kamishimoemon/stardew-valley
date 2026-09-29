@@ -1,253 +1,30 @@
 Requirements
-	Produce & Forage Shipped				38%
-		Waivers								Probably
-		Remaining
-			Cave Carrot						🎒
-			Coconut							🎒
-			Cactus Fruit					🎒
-			Banana							🎒
-			Large Milk
-			Garlic							🎒
-			Rhubarb
-			Melon							🎒
-			Tomato							🎒
-			Morel							🎒
-			Hot Pepper						🎒
-			Wheat							🍰
-			Radish							🎒
-			Red Cabbage						🎒
-			Starfruit						🎒
-			Corn							🎒
-			Unmilled Rice					🎒
-			Eggplant
-			Artichoke
-			Pumpkin							⏳
-			Bok Choy
-			Yam								🎒
-			Chanterelle						🎒
-			Cranberries						🎒
-			Beet
-			Ostrich Egg
-			Salmonberry						🎒
-			Amaranth						🎒
-			Pale Ale						🎒
-			Hops
-			Void Egg						🎒
-			Mayonnaise						🍰
-			Duck Mayonnaise					🍰
-			Void Mayonnaise					🍰
-			Clay							🎒
-			Beer
-			Poppy
-			Copper Ore						🎒
-			Iron Ore						🎒
-			Coal							🎒
-			Gold Ore						🎒
-			Iridium Ore						🎒
-			Wood							🎒
-			Strawberry						🎒
-			Common Mushroom					🎒
-			Wild Plum						🎒
-			Hazelnut						🎒
-			Winter Root						🎒
-			Red Mushroom					🎒
-			Sunflower						🎒
-			Purple Mushroom					🎒
-			Cheese
-			Goat Cheese
-			Cloth							🎒
-			Goat Milk
-			Large Goat Milk
-			Wool							🎒
-			Duck Egg						🎒
-			Duck Feather					🎒
-			Ancient Fruit					⏳
-			Mead							🍰
-			Summer Spangle
-			Fairy Rose
-			Apple							🎒
-			Green Tea
-			Apricot							🎒
-			Orange							🎒
-			Peach							🎒
-			Pomegranate						🎒
-			Cherry
-			Bug Meat						🎒
-			Hardwood						🎒
-			Maple Syrup						🎒
-			Oak Resin						🎒
-			Pine Tar						🍰
-			Fiber							🎒
-			Battery Pack					🎒
-			Dinosaur Mayonnaise				🍰
-			Squid Ink						🎒
-			Tea Leaves						🎒
-			Ginger							🎒
-			Mango							🎒
-			Cinder Shard					🎒
-			Bone Fragment					🎒
-			Radioactive Ore					🎒
-			Radioactive Bar					🎒
-			Moss							🎒
-			Mystic Syrup
-			Carrot							🎒
-			Summer Squash					🎒
-			Broccoli						🎒
-			Powdermelon						🎒
+	Produce & Forage Shipped				72%
+		Waivers								No
 	Obelisk									🗹
-	Golden Clock							☐
-		Waivers								1/10
+	Golden Clock							🗹
+		Waivers								10/10
 	Monster Slayer Hero						🗹
-	Great Friends							76%
+	Great Friends							🗹
 		Relative Priorities
 			Fish Caught						🔼
 		Waivers								No
-		Remaining
-			Vincent
-				Loved Gifts					Grape, Snail, Pink Cake, Ginger Ale
-				Birthday					Spring 10
-			Pierre
-				Loved Gifts					Fried Calamari, Price Catalogue
-				Birthday					Spring 26
-			Alex
-				Loved Gifts					"Jack Be Nimble, Jack Be Thick", Salmon Dinner, Complete Breakfast
-				Birthday					Summer 13
-			Sam
-				Loved Gifts					Cactus Fruit, Maple Bar, Pizza
-				Birthday					Summer 17
-			Leo
-				Loved Gifts					Mango, Poi, Duck Feather
-				Birthday					Summer 26
-			Abigail
-				Loved Gifts					Amethyst, Spicy Eel
-				Birthday					Fall 13
-			George
-				Loved Gifts					Leek, Fried Mushroom
-				Birthday					Fall 24
-			Wizard
-				Loved Gifts					Solar Essence, Void Essence
-				Birthday					Winter 17
-			Evelyn
-				Loved Gifts					Stuffing, Raisins
-				Birthday					Winter 20
 		Steps
 			If today is someone's birthday whose relationship is not maximized
 				Empty inventory
 				Fill inventory with loved gifts prioritizing the birthday boy/girl and those people whose birthday is furthest in time
 				Gift all loved items
 	Farmer Level							🗹
-	Stardrops								☐
+	Stardrops								🗹
 		Waivers								No
-		Remaining
-			Player's spouse					🍰
-				Candidate					Haley
-				Dependencies
-					Great Friends
-			Master Angler Achievement
-				Dependencies
-					Fish Caught
-	Cooking									39%
-		Waivers								No (I think)
-	Crafting								51%
-		Waivers								Probably
-		Remaining
-			Bomb
-			Mega Bomb
-			Stone Fence
-			Iron Fence
-			Cheese Press
-			Loom
-			Fish Smoker
-			Dehydrator
-			Quality Fertilizer
-			Deluxe Fertilizer
-			Speed-Gro
-			Basic Retaining Soil
-			Quality Retaining Soil
-			Deluxe Retaining Soil
-			Wild Seeds (Spring)
-			Wild Seeds (Summer)
-			Wild Seeds (Fall)
-			Wild Seeds (Winter)
-			Blue Grass Starter
-			Tea Sapling
-			Wood Floor
-			Straw Floor
-			Weathered Floor
-			Crystal Floor
-			Crystal Path
-			Spinner
-			Trap Bobber
-			Sonar Bobber
-			Cork Bobber
-			Quality Bobber
-			Treasure Hunter
-			Dressed Spinner
-			Barbed Hook
-			Magnet
-			Wild Bait
-			Magic Bait
-			Challenge Bait
-			Sturdy Ring
-			Warrior Ring
-			Ring of Yoba
-			Thorns Ring
-			Oil of Garlic
-			Monster Musk
-			Fairy Dust
-			Warp Totem: Mountains
-			Rain Totem
-			Treasure Totem
-			Torch
-			Campfire
-			Wooden Brazier
-			Gold Brazier
-			Carved Brazier
-			Stump Brazier
-			Barrel Brazier
-			Skull Brazier
-			Iron Lamp-Post
-			Jack-O-Lantern
-			Charcoal Kiln
-			Slime Incubator
-			Ostrich Incubator
-			Slime Egg-Press
-			Heavy Tapper
-			Worm Bin
-			Deluxe Worm Bin
-			Bone Mill
-			Bait Maker
-			Tub o' Flowers
-			Wicked Statue
-			Flute Block
-			Drum Block
-			Stone Chest
-			Big Stone Chest
-			Wood Sign
-			Stone Sign
-			Dark Sign
-			Text Sign
-			Garden Pot
-			Explosive Ammo
-			Mini-Jukebox
-			Hopper
-			Tent Kit
-	Fish Caught								95%
+	Cooking									100%
+		Waivers								No
+	Crafting								100%
+		Waivers								No
+	Fish Caught								🗹
 		Relative Priorities
 			Great Friends					🔽
 		Waivers								No
-		Remaining
-			Legend
-				Season						Spring
-				Location					Mountain Lake
-				Weather						Rain
-				Time						Any
-				Difficulty					110
-				Strategy
-					Bait					Deluxe Bait
-					Tackle					Trap Bobber x2
-					Food					Seafoam Pudding > Lobster Bisque > Fish Stew > Dish O' The Sea
-					Enchantment				Master
 		Strategy
 			Change fishing profession to Trapper + Mariner
 			Craft Crab Pots
@@ -258,5 +35,5 @@ Requirements
 				☣️ Go fishing (prioritize fish available with higher difficulty)
 	Golden Walnuts							🗹
 
-Total Complete								56% (+1 waiver)
-Goal Status									☐
+Total Complete								90% (+10 waiver)
+Goal Status									🗹
