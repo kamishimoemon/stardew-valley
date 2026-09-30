@@ -3,21 +3,21 @@ Main Info
 	Farm Name								Thrive
 	Farm Type								Wilderness Farm
 	Favorite Thing							Joja
-	Gold									1,981,350g
-	Total Earnings							11,574,610g
+	Gold									2,232,075g
+	Total Earnings							33,249,845g
 	Community Center/Joja run				Joja
 	Joja upgrades completed					Yes
-	Qi Gems									13
+	Qi Gems									21
 	House									Level 4
 	Maximum floor reached					112
-	Stardrops								5
-	Date									Day 21 of Fall, Year 4
-	Weather									Windy
+	Stardrops								7
+	Date									Day 13 of Fall, Year 6
+	Weather									Sunny
 
 Clothing
 	Hat										Infinity Crown
-	Shirt									Shirt
-	Pants									Farmer Pants
+	Shirt									Regal Mantle
+	Pants									Prismatic Genie Pants
 	Shoes									Crystal Shoes
 	Ring (Slot 1)							Combined Ring (Burglar's Ring + Iridium Band)
 	Ring (Slot 2)							Combined Ring (Napalm Ring + Iridium Band)
@@ -27,14 +27,14 @@ Inventory
 	Iridium Axe
 		Enchantment							Swift
 		Permanent							No
-	Iridium Scythe
-		Enchantment							N/A
-		Permanent							No
 	Iridium Hoe
 		Enchantment							Generous
 		Permanent							No
 	Iridium Pan
-		Enchantment							None
+		Enchantment							Generous
+		Permanent							No
+	Iridium Scythe
+		Enchantment							N/A
 		Permanent							No
 	Iridium Pickaxe
 		Enchantment							Swift
@@ -44,35 +44,18 @@ Inventory
 		Enchantment							Crusader
 		Permanent							Yes
 	Spicy Eel
-		Quantity							65
-		Permanent							Yes
-	Bomb
-		Quantity							78
+		Quantity							721
 		Permanent							Yes
 	Triple Shot Espresso
-		Quantity							15
+		Quantity							984
 		Permanent							Yes
-	Staircase
-		Quantity							80
+	Return Scepter
 		Permanent							Yes
-	Solar Panel
-		Quantity							8
-		Permanent							No
-	Coal
-		Quantity							822
-		Permanent							No
 	Iridium Watering Can
 		Enchantment							Bottomless
 		Permanent							No
-	Infinity Gavel
-		Forged								No
-		Enchantment							Artful
-		Permanent							No
 	Starfruit Jelly
-		Quantity							173
-		Permanent							Yes
-	Mega Bomb
-		Quantity							56
+		Quantity							79
 		Permanent							Yes
 
 Skills
@@ -85,8 +68,8 @@ Skills
 	Foraging								10
 		Profession:							Gatherer + Botanist
 		Mastery:							Yes
-	Fishing									11
-		Profession:							Fisher + Pirate
+	Fishing									10
+		Profession:							Trapper + Mariner
 		Mastery:							Yes
 	Combat									10
 		Profession:							Fighter + Brute
@@ -94,13 +77,11 @@ Skills
 
 Social
 	Abigail
-		Hearts								9/10
+		Hearts								10/10
 		Gifts								0
-		Status								Girlfriend
 	Alex
-		Hearts								7/8
+		Hearts								8/8
 		Gifts								0
-		Status								Single
 	Caroline
 		Hearts								10/10
 		Gifts								0
@@ -116,28 +97,24 @@ Social
 	Elliott
 		Hearts								8/8
 		Gifts								0
-		Status								Single
 	Emily
 		Hearts								10/10
 		Gifts								0
-		Status								Girlfriend
 	Evelyn
-		Hearts								6/10
+		Hearts								10/10
 		Gifts								0
 	George
-		Hearts								7/10
+		Hearts								10/10
 		Gifts								0
 	Gus
 		Hearts								10/10
 		Gifts								0
 	Haley
-		Hearts								10/10
-		Gifts								0
-		Status								Girlfriend
+		Hearts								14/14
+		Status								Wife
 	Harvey
 		Hearts								8/8
 		Gifts								0
-		Status								Single
 	Jas
 		Hearts								10/10
 		Gifts								0
@@ -153,9 +130,8 @@ Social
 	Leah
 		Hearts								10/10
 		Gifts								0
-		Status								Girlfriend
 	Leo
-		Hearts								8/10
+		Hearts								10/10
 		Gifts								0
 	Lewis
 		Hearts								10/10
@@ -169,44 +145,41 @@ Social
 	Maru
 		Hearts								10/10
 		Gifts								0
-		Status								Girlfriend
 	Pam
 		Hearts								10/10
 		Gifts								0
 	Penny
 		Hearts								10/10
 		Gifts								0
-		Status								Girlfriend
 	Pierre
-		Hearts								8/10
+		Hearts								10/10
 		Gifts								0
 	Robin
 		Hearts								10/10
 		Gifts								0
 	Sam
-		Hearts								7/8
+		Hearts								8/8
 		Gifts								0
-		Status								Single
 	Sandy
 		Hearts								10/10
 		Gifts								0
 	Sebastian
 		Hearts								8/8
 		Gifts								0
-		Status								Single
 	Shane
 		Hearts								8/8
 		Gifts								0
 		Status								Single
 	Vincent
-		Hearts								7/10
+		Hearts								10/10
 		Gifts								0
 	Willy
 		Hearts								10/10
 		Gifts								0
 	Wizard
-		Hearts								7/10
+		Hearts								10/10
 		Gifts								0
+	Dante (Son)								5/10
 
 Special Items & Powers
 	Forest Magic							Yes
@@ -219,7 +192,7 @@ Special Items & Powers
 	Dark Talisman							Yes
 	Magic Ink								Yes
 	Bear's Knowledge						Yes
-	Spring Onion Mastery					No
+	Spring Onion Mastery					Yes
 	Key To The Town							Yes
 	Price Catalogue							Yes
 	Mapping Cave Systems					Yes
@@ -258,13 +231,13 @@ Items Shipped
 	Parsnip
 		Shipped								Yes
 	Cave Carrot
-		Shipped								No
+		Shipped								Yes
 	Coconut
-		Shipped								No
+		Shipped								Yes
 	Cactus Fruit
-		Shipped								No
+		Shipped								Yes
 	Banana
-		Shipped								No
+		Shipped								Yes
 	Sap	
 		Shipped								Yes
 	Large White Egg
@@ -278,7 +251,7 @@ Items Shipped
 	Milk
 		Shipped								Yes
 	Large Milk
-		Shipped								No
+		Shipped								Yes
 	Green Bean
 		Shipped								Yes
 	Cauliflower
@@ -286,73 +259,73 @@ Items Shipped
 	Potato
 		Shipped								Yes
 	Garlic
-		Shipped								No
+		Shipped								Yes
 	Kale
 		Shipped								Yes
 	Rhubarb
-		Shipped								No
+		Shipped								Yes
 	Melon
-		Shipped								No
+		Shipped								Yes
 	Tomato
-		Shipped								No
+		Shipped								Yes
 	Morel
-		Shipped								No
+		Shipped								Yes
 	Blueberry
 		Shipped								Yes
 	Fiddlehead Fern	
 		Shipped								Yes
 	Hot Pepper
-		Shipped								No
+		Shipped								Yes
 	Wheat
-		Shipped								No
+		Shipped								Yes
 	Radish
-		Shipped								No
+		Shipped								Yes
 	Red Cabbage
-		Shipped								No
+		Shipped								Yes
 	Starfruit
-		Shipped								No
+		Shipped								Yes
 	Corn
-		Shipped								No
+		Shipped								Yes
 	Unmilled Rice
-		Shipped								No
+		Shipped								Yes
 	Eggplant
-		Shipped								No
+		Shipped								Yes
 	Artichoke
-		Shipped								No
+		Shipped								Yes
 	Pumpkin
-		Shipped								No
+		Shipped								Yes
 	Bok Choy
-		Shipped								No
+		Shipped								Yes
 	Yam
-		Shipped								No
+		Shipped								Yes
 	Chanterelle
-		Shipped								No
+		Shipped								Yes
 	Cranberries
-		Shipped								No
+		Shipped								Yes
 	Holly
 		Shipped								Yes
 	Beet
-		Shipped								No
+		Shipped								Yes
 	Ostrich Egg
-		Shipped								No
+		Shipped								Yes
 	Salmonberry
 		Shipped								Yes
 	Amaranth
-		Shipped								No
+		Shipped								Yes
 	Pale Ale
-		Shipped								No
+		Shipped								Yes
 	Hops
-		Shipped								No
+		Shipped								Yes
 	Void Egg
-		Shipped								No
+		Shipped								Yes
 	Mayonnaise
-		Shipped								No
+		Shipped								Yes
 	Duck Mayonnaise
-		Shipped								No
+		Shipped								Yes
 	Void Mayonnaise
-		Shipped								No
+		Shipped								Yes
 	Clay
-		Shipped								No	
+		Shipped								Yes	
 	Copper Bar
 		Shipped								Yes
 	Iron Bar
@@ -370,25 +343,25 @@ Items Shipped
 	Jelly
 		Shipped								Yes
 	Beer
-		Shipped								No
+		Shipped								Yes
 	Wine
 		Shipped								Yes
 	Juice
 		Shipped								Yes
 	Poppy
-		Shipped								No
+		Shipped								Yes
 	Copper Ore
-		Shipped								No
+		Shipped								Yes
 	Iron Ore
-		Shipped								No
+		Shipped								Yes
 	Coal
-		Shipped								No
+		Shipped								Yes
 	Gold Ore
-		Shipped								No
+		Shipped								Yes
 	Iridium Ore
-		Shipped								No
+		Shipped								Yes
 	Wood
-		Shipped								No
+		Shipped								Yes
 	Stone
 		Shipped								Yes
 	Nautilus Shell
@@ -406,19 +379,19 @@ Items Shipped
 	Spring Onion
 		Shipped								Yes
 	Strawberry
-		Shipped								No
+		Shipped								Yes
 	Sweet Pea
 		Shipped								Yes
 	Common Mushroom
-		Shipped								No
+		Shipped								Yes
 	Wild Plum
-		Shipped								No
+		Shipped								Yes
 	Hazelnut
-		Shipped								No
+		Shipped								Yes
 	Blackberry
 		Shipped								Yes
 	Winter Root
-		Shipped								No
+		Shipped								Yes
 	Crystal Fruit
 		Shipped								Yes
 	Snow Yam
@@ -428,17 +401,17 @@ Items Shipped
 	Crocus
 		Shipped								Yes
 	Red Mushroom
-		Shipped								No
+		Shipped								Yes
 	Sunflower
-		Shipped								No
+		Shipped								Yes
 	Purple Mushroom
-		Shipped								No
+		Shipped								Yes
 	Cheese
-		Shipped								No
+		Shipped								Yes
 	Goat Cheese
-		Shipped								No
+		Shipped								Yes
 	Cloth
-		Shipped								No
+		Shipped								Yes
 	Truffle
 		Shipped								Yes
 	Truffle Oil
@@ -446,15 +419,15 @@ Items Shipped
 	Coffee Bean
 		Shipped								Yes
 	Goat Milk
-		Shipped								No
+		Shipped								Yes
 	Large Goat Milk
-		Shipped								No
+		Shipped								Yes
 	Wool
-		Shipped								No
+		Shipped								Yes
 	Duck Egg
-		Shipped								No
+		Shipped								Yes
 	Duck Feather
-		Shipped								No
+		Shipped								Yes
 	Caviar
 		Shipped								Yes
 	Rabbit's Foot
@@ -462,41 +435,41 @@ Items Shipped
 	Aged Roe
 		Shipped								Yes
 	Ancient Fruit
-		Shipped								No
+		Shipped								Yes
 	Mead
-		Shipped								No
+		Shipped								Yes
 	Tulip
 		Shipped								Yes
 	Summer Spangle
-		Shipped								No
+		Shipped								Yes
 	Fairy Rose
-		Shipped								No
+		Shipped								Yes
 	Blue Jazz
 		Shipped								Yes
 	Apple
-		Shipped								No
+		Shipped								Yes
 	Green Tea
-		Shipped								No
+		Shipped								Yes
 	Apricot
-		Shipped								No
+		Shipped								Yes
 	Orange
-		Shipped								No
+		Shipped								Yes
 	Peach
-		Shipped								No
+		Shipped								Yes
 	Pomegranate
-		Shipped								No
+		Shipped								Yes
 	Cherry
-		Shipped								No
+		Shipped								Yes
 	Bug Meat
-		Shipped								No
+		Shipped								Yes
 	Hardwood
-		Shipped								No
+		Shipped								Yes
 	Maple Syrup
-		Shipped								No
+		Shipped								Yes
 	Oak Resin
-		Shipped								No
+		Shipped								Yes
 	Pine Tar
-		Shipped								No
+		Shipped								Yes
 	Slime
 		Shipped								Yes
 	Bat Wing
@@ -506,41 +479,41 @@ Items Shipped
 	Void Essence
 		Shipped								Yes
 	Fiber
-		Shipped								No
+		Shipped								Yes
 	Battery Pack
-		Shipped								No
+		Shipped								Yes
 	Dinosaur Mayonnaise
-		Shipped								No
+		Shipped								Yes
 	Roe	
 		Shipped								Yes
 	Squid Ink
-		Shipped								No
+		Shipped								Yes
 	Tea Leaves
-		Shipped								No
+		Shipped								Yes
 	Ginger
-		Shipped								No
+		Shipped								Yes
 	Taro Root
 		Shipped								Yes
 	Pineapple
 		Shipped								Yes
 	Mango
-		Shipped								No
+		Shipped								Yes
 	Cinder Shard
-		Shipped								No
+		Shipped								Yes
 	Magma Cap
 		Shipped								Yes
 	Bone Fragment
-		Shipped								No
+		Shipped								Yes
 	Radioactive Ore
-		Shipped								No
+		Shipped								Yes
 	Radioactive Bar
-		Shipped								No
+		Shipped								Yes
 	Smoked Fish
 		Shipped								Yes
 	Moss
-		Shipped								No
+		Shipped								Yes
 	Mystic Syrup
-		Shipped								No
+		Shipped								Yes
 	Raisins
 		Shipped								Yes
 	Dried Fruit
@@ -548,13 +521,13 @@ Items Shipped
 	Dried Mushrooms
 		Shipped								Yes
 	Carrot
-		Shipped								No
+		Shipped								Yes
 	Summer Squash
-		Shipped								No
+		Shipped								Yes
 	Broccoli
-		Shipped								No
+		Shipped								Yes
 	Powdermelon
-		Shipped								No
+		Shipped								Yes
 
 Fish
 	Pufferfish
@@ -622,7 +595,7 @@ Fish
 	Lava Eel
 		Caught								Yes
 	Legend
-		Caught								No
+		Caught								Yes
 	Sandfish
 		Caught								Yes
 	Scorpion Carp
@@ -676,17 +649,17 @@ Fish
 	Woodskip
 		Caught								Yes
 	Glacierfish
-		Caught								No
+		Caught								Yes
 	Void Salmon
 		Caught								Yes
 	Slimejack
 		Caught								Yes
 	Midnight Squid
-		Caught								No
+		Caught								Yes
 	Spook Fish
 		Caught								Yes
 	Blobfish
-		Caught								No
+		Caught								Yes
 	Stingray
 		Caught								Yes
 	Lionfish
@@ -705,55 +678,55 @@ Fish
 Cooking
 	Fried Egg
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Omelet
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Salad
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Cheese Cauliflower
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Baked Fish
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Parsnip Soup
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Vegetable Medley
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Complete Breakfast
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Fried Calamari
 		Unlocked							Yes
 		Cooked								Yes
 	Strange Bun
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Lucky Lunch
 		Unlocked							Yes
 		Cooked								Yes
 	Fried Mushroom
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Pizza
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Bean Hotpot
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Glazed Yams
 		Unlocked							Yes
 		Cooked								Yes
 	Carp Surprise
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Hashbrowns
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Pancakes
 		Unlocked							Yes
 		Cooked								Yes
@@ -765,151 +738,151 @@ Cooking
 		Cooked								Yes
 	Crispy Bass
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Pepper Poppers
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Bread
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Tom Kha Soup
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Trout Soup
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Chocolate Cake
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Pink Cake
 		Unlocked							Yes
 		Cooked								Yes
 	Rhubarb Pie
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Cookie
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Spaghetti
 		Unlocked							Yes
 		Cooked								Yes
 	Fried Eel
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Spicy Eel
-		Unlocked							No
-		Cooked								No
+		Unlocked							Yes
+		Cooked								Yes
 	Sashimi
 		Unlocked							Yes
 		Cooked								Yes
 	Maki Roll
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Tortilla
 		Unlocked							Yes
 		Cooked								Yes
 	Red Plate
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Eggplant Parmesan
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Rice Pudding
-		Unlocked							No
-		Cooked								No
+		Unlocked							Yes
+		Cooked								Yes
 	Ice Cream
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Blueberry Tart
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Autumn's Bounty
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Pumpkin Soup
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Super Meal
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Cranberry Sauce
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Stuffing
 		Unlocked							Yes
 		Cooked								Yes
 	Farmer's Lunch
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Survival Burger
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Dish O' The Sea
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Miner's Treat
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Roots Platter
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Triple Shot Espresso
 		Unlocked							Yes
 		Cooked								Yes
 	Seafoam Pudding
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Algae Soup
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Pale Broth
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Plum Pudding
 		Unlocked							Yes
 		Cooked								Yes
 	Artichoke Dip
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Stir Fry
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Roasted Hazelnuts
 		Unlocked							Yes
 		Cooked								Yes
 	Pumpkin Pie
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Radish Salad
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Fruit Salad
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Blackberry Cobbler
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Cranberry Candy
 		Unlocked							Yes
 		Cooked								Yes
 	Bruschetta
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Coleslaw
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Fiddlehead Risotto
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Poppyseed Muffin
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Chowder
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Fish Stew
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Escargot
 		Unlocked							Yes
 		Cooked								Yes
@@ -921,28 +894,28 @@ Cooking
 		Cooked								Yes
 	Crab Cakes
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Shrimp Cocktail
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Ginger Ale
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Banana Pudding
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Mango Sticky Rice
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Poi
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Tropical Curry
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Squid Ink Ravioli
 		Unlocked							Yes
-		Cooked								No
+		Cooked								Yes
 	Moss Soup
 		Unlocked							Yes
 		Cooked								Yes
@@ -989,10 +962,10 @@ Achievements
 		Completed							Yes
 	Sous Chef
 		Unlocked							Yes
-		Completed							No
+		Completed							Yes
 	Gourmet Chef
-		Unlocked							No
-		Completed							No
+		Unlocked							Yes
+		Completed							Yes
 	Moving Up
 		Unlocked							Yes
 		Completed							Yes
@@ -1007,7 +980,7 @@ Achievements
 		Completed							Yes
 	Craft Master
 		Unlocked							Yes
-		Completed							No
+		Completed							Yes
 	Fisherman
 		Unlocked							Yes
 		Completed							Yes
@@ -1016,7 +989,7 @@ Achievements
 		Completed							Yes
 	Master Angler
 		Unlocked							Yes
-		Completed							No
+		Completed							Yes
 	Mother Catch
 		Unlocked							Yes
 		Completed							Yes
@@ -1037,7 +1010,7 @@ Achievements
 		Completed							Yes
 	Full Shipment
 		Unlocked							Yes
-		Completed							No
+		Completed							Yes
 	A Distant Shore
 		Unlocked							Yes
 		Completed							Yes
@@ -1063,8 +1036,8 @@ Achievements
 		Unlocked							Yes
 		Completed							Yes
 	Perfection
-		Unlocked							No
-		Completed							No
+		Unlocked							Yes
+		Completed							Yes
 
 Monster Slayer Hero
 	Slimes									Yes
@@ -1081,62 +1054,33 @@ Monster Slayer Hero
 	Magma Sprites							Yes
 
 Farm Buildings
-	Mill
 	Silo
-		Hay									208/240
-	Deluxe Barn
-		Auto-Petter							Yes
-		Heater								Yes
-		Animals
-			Sollover
-				Type						Pig
-				Hearts						5
-			Limabella
-				Type						Pig
-				Hearts						5
-			Belley
-				Type						Pig
-				Hearts						5
-			Sotcha
-				Type						Pig
-				Hearts						5
-			Chepus
-				Type						Pig
-				Hearts						5
-			Chupa
-				Type						Pig
-				Hearts						5
-			Shubba
-				Type						Pig
-				Hearts						5
-			Snasko
-				Type						Pig
-				Hearts						5
-			Totie
-				Type						Pig
-				Hearts						5
-			Pracku
-				Type						Pig
-				Hearts						5
-			Tutchers
-				Type						Pig
-				Hearts						5
-			Mullello
-				Type						Pig
-				Hearts						5
+		Hay									143/240
 	Deluxe Coop
 		Auto-Petter							Yes
 		Auto-Grabber						Yes
 		Heater								No
 		Animals
-			Joto
-				Type						Brown Chicken
-				Hearts						5
-				Golden Animal Cracker		Yes
 			Guso
 				Type						White Chicken
 				Hearts						5
 				Golden Animal Cracker		Yes
+			Joto
+				Type						Brown Chicken
+				Hearts						5
+				Golden Animal Cracker		Yes
+			Bluey
+				Type						Blue Chicken
+				Hearts						5
+				Golden Animal Cracker		Yes
+			Meckaboo
+				Type						Void Chicken
+				Hearts						5
+				Golden Animal Cracker		Yes
+			Bahamut
+				Type						Gold Chicken
+				Hearts						0
+				Golden Animal Cracker		No
 			Ducky
 				Type						Duck
 				Hearts						5
@@ -1145,6 +1089,13 @@ Farm Buildings
 				Type						Rabbit
 				Hearts						5
 				Golden Animal Cracker		No
+			Dino
+				Type						Dinosaur
+				Hearts						5
+				Golden Animal Cracker		No
+	Slime hutch
+		Sprinkler							Yes
+		Slime Incubator						Yes
 	Obelisks
 		Earth Obelisk						Yes
 		Water Obelisk						Yes
@@ -1153,427 +1104,276 @@ Farm Buildings
 
 Storage
 	Animal Product
-		Rabbit's Foot						5
-		Void Egg							1
-	Artisan Goods
-		Cloth								216
-		Crystal Fruit Jelly					1
-		Dried Common Mushrooms				41
-		Dried Magma Caps					1
-		Blue Jazz Honey						6
-		Maple Syrup							75
-		Oak Resin							189
-		Pale Ale							64
-		Pickled Carrot						62
-		Pickled Pumpkin						9
-		Potato Juice						12
-		Raisins								1
-		Wild Honey							187
-	Bait
-		Challenge Bait						8
-		Deluxe Bait							195
-		Wild Bait							8
-	Book
-		Book Of Stars						1
-		Jack Be Nimble, Jack Be Thick		1
-		Mining Monthly						2
-		Woodcutter's Weekly					1
-		Woody's Secret						2
-	Cooking
-		Algae Soup							6
-		Baked Fish							3
-		Bread								25
-		Bug Steak							1
-		Cheese Cauliflower					1
-		Chocolate Cake						1
-		Chowder								2
-		Cookies								12
-		Crab Cakes							50
-		Cranberry Candy						41
-		Dish O' The Sea						11
-		Field Snack							3
-		Fish Stew							2
-		Fried Calamari						4
-		Fried Eel							3
-		Fried Mushroom						2
-		Life Elixir							29
-		Lucky Lunch							10
-		Magic Rock Candy					2
-		Maki Roll							3
-		Maple Bar							39
-		Miner's Treat						34
-		Omelet								1
-		Parsnip Soup						1
-		Pepper Poppers						9
-		Pink Cake							1
-		Plum Pudding						17
-		Pumpkin Soup						2
-		Red Plate							1
-		Rice Pudding						1
-		Roasted Hazelnuts					5
-		Shrimp Cocktail						3
-		Stir Fry							1
-		Strange Bun							20
-		Stuffing							6
-		Tortilla							1
-	Crafting
-		Cherry Bomb							25
-		Iridium Sprinkler					11
-		Quality Sprinkler					22
-		Scarecrow							11
-	Decor
-		Brick Floor							264
-		Cobblestone Path					2
-		Gravel Path							38
-		Stepping Stone Path					5
-		Stone Walkway Floor					17
-		Wood Path							2
-	Fertilizer
-		Basic Fertilizer					40
-		Basic Retaining Soil				2
-		Deluxe Speed-Gro					286
-		Quality Fertilizer					280
-	Fish
-		Crab								1
-		Lobster								1
-		Midnight Carp						6
-		Mussel								8
-		Periwinkle							14
-		Snail								3
-	Fishing Tackle
-		Curiosity Lure						2
-		Dressed Spinner						3
-		Sonar Bobber						1
-	Flower
-		Sunflower
-			Regular							16
-			Silver							18
-			Gold							8
-		Sweet Pea
-			Iridium							3
-		Tulip
-			Regular							1
-	Forage
-		Cave Carrot							237
-		Chanterelle
-			Regular							30
-			Silver							1
-			Iridium							9
-		Common Mushroom
-			Regular							173
-			Silver							14
-			Gold							6
-			Iridium							17
-		Daffodil
-			Iridium							50
-		Dandelion
-			Iridium							53
-		Ginger								292
-		Hazelnut
-			Iridium							37
-		Leek
-			Iridium							48
-		Magma Cap
-			Regular							2
-			Iridium							64
-		Morel
-			Regular							23
-			Iridium							10
-		Purple Mushroom
-			Regular							27
-			Silver							4
-			Gold							4
-			Iridium							31
-		Red Mushroom
-			Regular							178
-			Silver							20
-			Gold							16
-			Iridium							6
-		Sap									999
-		Snow Yam
-			Regular							41
-			Iridium							2
-		Spring Onion
-			Iridium							93
-		Wild Horseradish
-			Iridium							73
-		Winter Root
-			Regular							115
-			Iridium							3
-	Fruit
-		Apple
-			Silver Quality					36
-		Apricot
-			Regular							51
-			Silver							30
-		Banana
-			Regular							30
-		Blackberry
-			Regular							85
-			Silver							8
-			Gold							8
-			Iridium							53
-		Cactus Fruit
-			Iridium							35
-		Coconut
-			Regular							203
-			Iridium							107
-		Cranberries
-			Regular							4402
-			Silver							1604
-			Gold							1117
-		Crystal Fruit
-			Regular							16
-			Silver							1
-			Gold							5
-			Iridium							55
-		Grape
-			Iridium							42
-		Hot Pepper
-			Regular							32
-			Silver							20
-			Gold							19
-		Mango
-			Regular							34
-		Melon
-			Regular							13
-			Silver							9
-			Gold							1
-		Orange
-			Regular							63
-		Peach
-			Regular							43
-			Silver							36
-		Pineapple
-			Gold							16
-		Pomegranate
-			Regular							30
-		Powdermelon
-			Regular							70
-			Silver							37
-			Gold							10
-		Salmonberry
-			Iridium							6
-		Spice Berry
-			Regular							8
-			Silver							4
-			Gold							4
-			Iridium							54
-		Starfruit
-			Regular							43
-			Silver							352
-			Gold							449
-		Strawberry
-			Gold							21
-		Wild Plum
-			Iridium							1
-	Monster Loot
-		Bat Wing							312
-		Bug Meat							520
-		Slime								1802
-		Solar Essence						999
-		Void Essence						1278
-	Resource
-		Copper Bar							122
-		Gold Bar							325
-		Iridium Bar							62
-		Iron Bar							76
-		Radioactive Bar						1
-		Bone Fragment						73
-		Cinder Shard						254
-		Coal								1824
-		Copper Ore							496
-		Gold Ore							2044
-		Iridium Ore							553
-		Iron Ore							469
-		Radioactive Ore						108
-		Refined Quartz						54
-		Battery Pack						72
-		Clay								867
-		Fiber								7653
-		Hardwood							843
-		Moss								1145
-		Stone								7886
-		Wood								1078
-	Seed
-		Acorn								100
-		Bean Starter						20
-		Broccoli Seeds						34
-		Cauliflower Seeds					20
-		Coffee Bean
-			Regular							5609
-			Silver							1228
-			Gold							796
-		Corn Seeds							56
-		Cranberry Seeds						26
-		Eggplant Seeds						8
-		Grape Starter						2
-		Mahogany Seed						14
-		Maple Seed							35
-		Mixed Flower Seeds					151
-		Mixed Seeds							298
-		Mossy Seed							8
-		Pine Cone							559
-		Pineapple Seeds						40
-		Powdermelon Seeds					82
-		Pumpkin Seeds						168
-		Radish Seeds						1
-		Rice Shoot							15
-		Starfruit Seeds						192
-		Strawberry Seeds					999
-		Summer Squash Seeds					107
-		Sunflower Seeds						14
-		Wheat Seeds							41
-	Vegetable
-		Amaranth
-			Silver							3
-			Gold							2
-		Broccoli
-			Silver							6
-			Gold							6
-		Carrot
-			Regular							88
-			Silver							87
-			Gold							60
-		Cauliflower
-			Regular							10
-			Silver							3
-			Gold							7
-		Corn
-			Regular							29
-			Silver							49
-			Gold							29
-		Fiddlehead Fern
-			Regular							66
-			Iridium							23
-		Garlic
-			Regular							36
-			Silver							33
-			Gold							28
-		Radish
-			Silver							13
-			Gold							3
-		Red Cabbage
-			Regular							12
-			Silver							15
+		Rabbit's Foot
+			Silver							10
 			Gold							9
-		Summer Squash
-			Gold							34
-		Taro Root
-			Regular							103
-			Silver							105
-			Gold							65
-		Tea Leaves
-			Regular							1
-		Tomato
-			Regular							13
-			Silver							6
-			Gold							6
-		Unmilled Rice
-			Regular							1198
-			Silver							386
-			Gold							223
-		Yam
-			Regular							1
-			Silver							11
+			Iridium							17
+		Duck Egg
+			Regular							2
+			Silver							30
+			Gold							35
+			Iridium							53
+		White Egg
+			Regular							14
+			Silver							10
+			Gold							4
+			Iridium							6
+		Brown Egg
+			Regular							2
+			Silver							2
+		Large White Egg
+			Regular							14
+			Silver							242
+			Gold							292
+			Iridium							334
+		Large Brown Egg
+			Silver							154
+			Gold							202
+			Iridium							208
+		Void Egg
+			Regular							15
+			Silver							72
+			Gold							85
+			Iridium							170
+		Duck Feather
+			Silver							9
+			Gold							12
+			Iridium							24
+		Wool
+			Regular							3
+			Silver							30
+			Gold							24
+			Iridium							29
+	Artifact
+		Dinosaur Egg
+			Regular							2
+			Silver							8
 			Gold							3
+			Iridium							22
+	Artisan Goods
+		Beer								3
+		Cloth								691
+		Dried Common Mushrooms				40
+		Dried Magma Caps					1
+		Green Tea							2
+		Blue Jazz Honey						6
+		Poppy Honey							911
+		Blue Jazz Honey						6
+		Sunflower Honey						80
+		Wild Honey							38
+		Jelly								1
+		Crystal Fruit Jelly					1
+		Potato Juice						12
+		Mead								3
+		Pale Ale							58
+		Pickled Carrot						56
+		Pickled Pumpkin						9
+		Pickled Tea Leaves					1
+		Truffle Oil							2
+		Maple Syrup							145
+		Mystic Syrup						565
+		Oak Resin							145
+		Pine Tar							181
+	Bait
+		Bait								45
+		Challenge Bait						13
+		Deluxe Bait							1077
+		Wild Bait							42
+	Book
+		Jack Be Nimble, Jack Be Thick		5
+		Woody's Secret						6
+		Book Of Stars						5
+		Mining Monthly						5
+		Stardew Valley Almanac				3
+		Woodcutter's Weekly					3
+	Cooking
+	Crafting
+		Cherry Bomb							100
+		Bomb								276
+		Mega Bomb							95
+		Sprinkler							1
+		Quality Sprinkler					53
+		Iridium Sprinkler					50
+	Decor
+	Fertilizer
+		Basic Fertilizer					45
+		Deluxe Fertilizer					5
+		Quality Fertilizer					312
+		Basic Retaining Soil				2
+		Deluxe Retaining Soil				1
+		Quality Retaining Soil				2
+		Speed-Gro							5
+		Deluxe Speed-Gro					116
+		Hyper Speed-Gro					1
+	Fish								3
+	Fishing Tackle
+	Flower
+	Forage
+	Fruit
+		Ancient Fruit
+			Regular							1202
+			Silver							851
+			Gold							8602
+		Starfruit
+			Regular							163
+			Silver							156
+			Gold							106
+	Mineral
+		Amethyst							130
+		Aquamarine							98
+		Diamond								630
+		Earth Crystal						36
+		Emerald								422
+		Fire Quartz							9
+		Frozen Tear							77
+		Jade								176
+		Prismatic Shard						23
+		Quartz								57
+		Ruby								404
+		Topaz								97
+	Monster Loot
+		Bat Wing							527
+		Bug Meat							169
+		Slime								764
+		Solar Essence						1998
+		Void Essence						1998
+	Resource
+		Copper Bar							433
+		Gold Bar							430
+		Iridium Bar							541
+		Iron Bar							609
+		Radioactive Bar						0
+		Bone Fragment						1138
+		Cinder Shard						158
+		Coal								222
+		Copper Ore							162
+		Gold Ore							73
+		Iridium Ore							40
+		Iron Ore							149
+		Radioactive Ore						82
+		Refined Quartz						526
+		Battery Pack						1329
+		Clay								1022
+		Fiber								2808
+		Hardwood							1490
+		Moss								734
+		Stone								1204
+		Wood								2095
+	Seeds
+		Trees
+			Acorn								62
+			Mahogany Seed						73
+			Maple Seed							57
+			Mossy Seed							14
+			Pine Cone							999
+		Crops
+			Ancient Seeds						1164
+			Bean Starter						20
+			Broccoli Seeds						85
+			Carrot Seeds						109
+			Cauliflower Seeds					20
+			Coffee Bean							0
+			Corn Seeds							56
+			Cranberry Seeds						26
+			Eggplant Seeds						8
+			Fiber Seeds							486
+			Grape Starter						2
+			Mixed Seeds							390
+			Pineapple Seeds						72
+			Powdermelon Seeds					55
+			Pumpkin Seeds						168
+			Radish Seeds						1
+			Rare Seeds							1
+			Red Cabbage Seeds					3
+			Rice Shoot							23
+			Starfruit Seeds						10
+			Strawberry Seeds					999
+			Summer Squash Seeds					161
+			Taro Tuber							318
+			Wheat Seeds							225
+			Winter Seeds						5
+	Vegetable
 	Uncategorized
-		Auto-Petter							2
-		Bee House							7
-		Big Chest							1
-		Chest								12
-		Cookout Kit							2
-		Crystalarium						1
-		Dragon Tooth						9
-		Energy Tonic						17
-		Enricher							1
-		Fairy Dust							32
-		Geode Crusher						1
-		Golden Animal Cracker				10
-		Golden Pumpkin						13
-		Green Algae							98
-		Hay									228
-		Lightning Rod						44
-		Monster Musk						1
-		Oil									37
-		Pearl								6
-		Pressure Nozzle						9
-		Purple Slime Egg					1
-		Rice								647
-		Seaweed								104
-		Squid Ink							27
-		Tapper								10
-		Tent Kit							4
-		Treasure Chest						6
-		Truffle
-			Iridium							125
-		Warp Totem: Beach					6
-		Warp Totem: Desert					7
-		Warp Totem: Farm					19
-		Warp Totem: Island					1
-		Warp Totem: Mountains				7
-		Wheat Flour							910
-		White Algae							67
-		Wood Chipper						1
+		Dragon Tooth						12
+		Fairy Dust							802
 	Trash
-		Broken CD							39
-		Broken Glasses						29
-		Driftwood							12
-		Joja Cola							42
-		Soggy Newspaper						25
-		Trash								14
+		Broken CD							1
+		Broken Glasses						1
+		Driftwood							13
+		Joja Cola							0
+		Soggy Newspaper						26
+		Trash								18
 
 Machines
 	Keg
-		Main Farm							1
-			Status							Idle
-		Quarry								403
-			Status							Ready to harvest
-			Product						Starfruit Wine
-		Ginger Island						374
-			Status							Idle
-	Lightning Rod
-		Main Farm							122
+		Main Farm							206
+			Status							Ready to harvest (Saturday)
+			Product							Ancient Fruit Wine
+		Bus Stop							45
+			Status							Ready to harvest (Saturday)
+			Product							Ancient Fruit Wine
+		Between the Bus Stop and the Tunnel	76
+			Status							Ready to harvest (Saturday)
+			Product							Ancient Fruit Wine
+		Quarry								417
+			Status							Ready to harvest (Saturday)
+			Product							Ancient Fruit Wine
+		Ginger Island Farm (East)			567
+			Status							Ready to harvest (Saturday)
+			Product							Ancient Fruit Wine
+		Ginger Island Farm (West)			976
+			Status							Ready to harvest (Sunday)
+			Product							Ancient Fruit Wine
 	Heavy Furnace
-		Main Farm							5
-			Status							Ready to harvest
-			Product							Refined Quartz
-	Dehydrator
-		Main Farm							1
+		Tunnel								130
 			Status							Idle
 	Cask
 		Main Farm							189
-		Status								Starfruit Wine (regular)
+		Status								Starfruit Wine (regular) (Ready on Spring, Wed 3, Year 7)
+	Slime Egg-Press
+		Railroad (North)					18
+		Status								Idle
 
-Forests
-	Oak Tree								45
-		Location							Railroad
+Forests (Tapping)
+	Oak Tree								124
+		Location							Railroad (West)
 		Tapped with							Tapper
-		Status								Waiting for product
+		Status								Ready to harvest (Sunday)
 	Maple Tree								7
-		Location							Railroad
+		Location							Railroad (Center)
 		Tapped with							Tapper
-		Status								Ready to harvest
-	Mystic Tree								29
-		Location							Railroad
-		Tapped with							Heavy Tapper (but only 23 of them)
-		Status								Waiting for product
+		Status								Ready to harvest (Sunday)
+	Mystic Tree								48
+		Location							Railroad (Southeast)
+		Tapped with							Heavy Tapper (but only 45 of them)
+		Status								Ready to harvest (Sunday)
+	Pine Tree								31
+		Location							Railroad (Northeast)
+		Tapped with							Tapper
+		Status								Ready to harvest (Sunday)
+
+Forests (Wood)
+	Maple Tree
+		Calico Desert (Southwest)			118
+			Status							Ready for harvest
+		Cindersap Forest					98
+			Status							Ready for harvest
 
 Soil
-	Main Farm								1846
+	Main Farm								1943
 		Tilled								Yes
 		Sprinklers							Yes
 		Fertilizer							Deluxe Speed-Gro
-		Growing								Wheat
-			Stage							Ready to harvest
-	Greenhouse								118
+		Growing								Ancient Fruit
+			Stage							Ready to harvest (Monday)
+	Greenhouse								119
 		Tilled								Yes
 		Sprinklers							Yes
 		Fertilizer							Hyper Speed-Gro
-		Growing								Ancient Fruit
-			Stage							Mature and producing fruit at various rates
+		Growing								Starfruit
+			Stage							Growing
 	Ginger Island Farm						~696
 		Tilled								Yes
 		Fertilizer							Deluxe Speed-Gro
 		Growing								Ancient Fruit
-			Stage							Varies (some are already giving fruit)
+			Stage							Ready to harvest (Monday)
